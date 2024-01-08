@@ -1,0 +1,2500 @@
+rank,Name,classical,Rapid,Blitz
+1,Magnus Carlsen,2830,2823,2886
+2,Fabiano Caruana,2804,2729,2790
+3,Hikaru Nakamura,2788,2746,2874
+4,Ding Liren,2780,2818,2787
+5,Ian Nepomniachtchi,2769,2754,2800
+6,Alireza Firouzja,2759,2724,2863
+7,Wesley So,2757,2742,2767
+8,Leinier Dominguez Perez,2752,2706,2654
+9,Sergey Karjakin,2750,2724,2647
+10,Anish Giri,2749,2702,2715
+11,Viswanathan Anand,2748,2749,2709
+12,Vincent Keymer,2743,2636,2645
+13,Praggnanandhaa Rameshbabu,2743,2645,2623
+14,Vidit Santosh Gujrathi,2742,2701,2616
+15,Wei Yi,2740,2743,2661
+16,Parham Maghsoodloo,2740,2683,2660
+17,Arjun Erigaisi,2738,2681,2744
+18,Maxime Vachier-Lagrave,2734,2755,2764
+19,Jan-Krzysztof Duda,2732,2748,2766
+20,Alexander Grischuk,2732,2701,2701
+21,Le Quang Liem,2731,2650,2665
+22,Veselin Topalov,2727,2632,2657
+23,Nodirbek Abdusattorov,2727,2733,2708
+24,Shakhriyar Mamedyarov,2726,2706,2700
+25,Gukesh Dommaraju,2725,2629,2659
+26,Levon Aronian,2725,2746,2759
+27,Yu Yangyi,2720,2725,2734
+28,Richard Rapport,2717,2708,2745
+29,Francisco Vallejo Pons,2712,2661,2589
+30,Vladislav Artemiev,2711,2737,2802
+31,Daniil Dubov,2708,2715,2802
+32,Samuel Shankland,2708,2597,2668
+33,Pentala Harikrishna,2707,2630,2634
+34,Nikita Vitiugov,2704,2622,2673
+35,Bogdan-Daniel Deac,2704,2616,2641
+36,Jorden van Foreest,2704,2659,2664
+37,Sanan Sjugirov,2702,2571,2569
+38,Wang Hao,2702,2709,2624
+39,Ray Robson,2701,2596,2665
+40,Sam Sevian,2698,2581,2695
+41,Amin Tabatabaei,2696,2577,2586
+42,David Navara,2695,2701,2680
+43,Pavel Eljanov,2695,2641,2598
+44,Evgeny Tomashevsky,2694,2642,2663
+45,Jeffery Xiong,2693,2714,2707
+46,David Anton Guijarro,2693,2635,2606
+47,Gabriel Sargissian,2692,2612,2579
+48,Bu Xiangzhi,2690,2611,2760
+49,Peter Svidler,2688,2734,2689
+50,Alexey Sarana,2685,2649,2703
+51,Alexander Donchenko,2684,2568,2565
+52,Bassem Amin,2684,2600,2636
+53,Nihal Sarin,2684,2671,2704
+54,Andrey Esipenko,2683,2665,2615
+55,Haik Martirosyan,2683,2591,2701
+56,Nils Grandelius,2683,2632,2573
+57,Grigoriy Oparin,2681,2657,2647
+58,Radoslaw Wojtaszek,2679,2645,2604
+59,Maxim Matlakov,2677,2636,2666
+60,David Howell,2677,2604,2567
+61,Vladimir Fedoseev,2676,2729,2719
+62,Kirill Alekseenko,2675,2639,2683
+63,Kirill Shevchenko,2675,2613,2603
+64,Igor Kovalenko,2674,2608,2574
+65,Rustam Kasimdzhanov,2673,2648,2586
+66,Vasyl Ivanchuk,2672,2664,2678
+67,Matthias Bluebaum,2670,2601,2626
+68,Alexei Shirov,2668,2585,2659
+69,Peter Leko,2666,2710,2738
+70,Anton Korobov,2663,2627,2649
+71,Etienne Bacrot,2662,2675,2640
+72,Gadir Guseinov,2661,2632,2573
+73,Jules Moussard,2661,2606,2637
+74,Saleh Salem,2661,2673,2668
+75,Boris Gelfand,2661,2619,2604
+76,Andrei Volokitin,2661,2627,2545
+77,Hans Moke Niemann,2660,2577,2616
+78,Wang Yue,2659,2709,2666
+79,Javokhir Sindarov,2659,2601,2585
+80,Michael Adams,2658,2647,2704
+81,Ernesto Inarkiev,2658,2684,2544
+82,Ivan Cheparinov,2657,2648,2613
+83,Ivan Saric,2657,2631,2586
+84,Yuriy Kryvoruchko,2656,2697,2595
+85,Narayanan Sunilduth Lyna,2656,2586,2564
+86,Jaime Santos Latasa,2656,2645,2604
+87,Laurent Fressinet,2652,2663,2635
+88,Li Chao,2652,2631,2693
+89,Arkadij Naiditsch,2651,2566,2581
+90,Ma Qun,2651,2577,2602
+91,Alexandr Predke,2651,2589,2594
+92,Ni Hua,2651,2626,2579
+93,Ruslan Ponomariov,2650,2646,2604
+94,Hrant Melkumyan,2650,2686,2604
+95,Awonder Liang,2649,2528,2538
+96,Evgeniy Najer,2648,2579,2545
+97,Vladimir Malakhov,2646,2666,2652
+98,Nijat Abasov,2646,2532,2551
+99,Aravindh Chithambaram,2645,2553,2596
+100,Loek van Wely,2644,2528,2553
+101,Alan Pichot,2642,2565,2583
+102,Nguyen Ngoc Truong Son,2641,2575,2556
+103,Gata Kamsky,2641,2630,2660
+104,Aryan Chopra,2641,0,0
+105,Dariusz Swiercz,2640,2657,2620
+106,Shant Sargsyan,2639,2579,2627
+107,Thai Dai Van Nguyen,2637,2537,2574
+108,Benjamin Gledura,2637,2636,2537
+109,Frederik Svane,2634,2455,2502
+110,Mustafa Yilmaz,2634,2542,2523
+111,Rauf Mamedov,2633,2620,2635
+112,Max Warmerdam,2633,2531,2514
+113,Pouya Idani,2633,2516,2574
+114,Tamir Nabaty,2632,2658,2627
+115,Volodar Murzin,2631,2558,2620
+116,Rasmus Svane,2631,2621,2601
+117,Vasif Durarbayli,2631,2531,2551
+118,Nodirbek Yakubboev,2630,2574,2575
+119,Erwin l'Ami,2630,2647,2675
+120,Luka Lenic,2629,2659,2644
+121,Georg Meier,2629,2644,2517
+122,Aryan Tari,2629,2539,2586
+123,Ioannis Papaioannou,2628,2614,2666
+124,Dmitrij Kollars,2628,2536,2584
+125,Leon Luke Mendonca,2628,2458,2481
+126,Ivan Popov,2628,2577,2554
+127,Hou Yifan,2628,2537,2561
+128,Julio E Granda Zuniga,2628,2609,2624
+129,Yuriy Kuzubov,2627,2626,2487
+130,Jorge Cori,2627,2594,2571
+131,Luke McShane,2626,2702,2583
+132,Cristobal Henriquez Villagra,2626,2596,2565
+133,Abhijeet Gupta,2625,2543,2528
+134,Alexander Areshchenko,2625,2565,2627
+135,Mateusz Bartel,2625,2533,2516
+136,Raunak Sadhwani,2624,2564,2669
+137,Jonas Buhl Bjerre,2624,2518,2512
+138,Markus Ragger,2624,2630,2532
+139,Yaroslav Zherebukh,2624,2620,2531
+140,Imre Balog,2622,2619,2598
+141,Illya Nyzhnyk,2621,2658,2643
+142,Jan Gustafsson,2620,2641,2528
+143,Karen H Grigoryan,2619,2674,2700
+144,Anton Demchenko,2619,2538,2545
+145,Daniel Naroditsky,2619,2642,2623
+146,Jose Eduardo Martinez Alcantara,2619,2641,2703
+147,Vladimir Onischuk,2619,2661,2643
+148,Jakhongir Vakhidov,2618,2527,2582
+149,Karthikeyan Murali,2618,2522,2527
+150,Gawain Jones,2618,2630,2645
+151,Parimarjan Negi,2617,2613,2613
+152,Benjamin Bok,2617,2604,2657
+153,Eduardo Iturrizaga Bonelli,2617,2641,2645
+154,Alexander Riazantsev,2616,2509,2621
+155,Maksim Chigaev,2616,2592,2561
+156,Ferenc Berkes,2615,2617,2664
+157,Aleksandr Rakhmanov,2614,2617,2521
+158,Sandro Mareco,2614,2541,2544
+159,Aram Hakobyan,2612,2513,2584
+160,Jon Ludvig Hammer,2612,2647,2592
+162,Axel Bachmann,2611,2616,2611
+163,Abhimanyu Puranik,2611,2538,2479
+164,Mads Andersen,2610,2512,2518
+165,Sergei Movsesian,2610,2601,2570
+166,Manuel Petrosyan,2610,2561,2565
+167,Samvel Ter-Sahakyan,2609,2550,2545
+168,Daniele Vocaturo,2609,2572,2565
+169,Eric Hansen,2609,2582,2561
+170,Ivan Salgado Lopez,2608,2554,2561
+171,Ante Brkic,2608,2585,2560
+172,Xu Xiangyu,2608,2580,2490
+173,Oleksandr Bortnyk,2608,2642,2731
+174,Maxim Rodshtein,2606,2615,2555
+175,Lazaro Bruzon Batista,2606,2600,2673
+176,Christopher Yoo,2606,2497,2532
+177,David Baramidze,2606,0,0
+178,Aleksey Dreev,2606,2557,2609
+179,Krishnan Sasikiran,2604,2559,2567
+180,Vadim Milov,2604,2632,2519
+181,Johan-Sebastian Christiansen,2603,2494,2545
+182,Viktor Laznicka,2603,2639,2529
+183,Tigran Gharamian,2603,2598,2632
+184,Jiangchuan Ye,2603,0,0
+185,Niclas Huschenbeth,2603,2566,2605
+186,Alexander Motylev,2602,2652,2532
+187,Vladimir Akopian,2602,2643,2641
+188,Mikhail Al Antipov,2601,2593,2513
+189,Robert Hovhannisyan,2601,2589,2570
+190,Aleksandar Indjic,2601,2553,2611
+191,Jacek Tomczak,2601,2538,2551
+192,Alexandr Fier,2600,2523,2594
+193,Eltaj Safarli,2600,2651,2653
+194,Stepan Zilka,2600,2470,2494
+195,Maxime Lagarde,2600,2583,2562
+196,Tamas Banusz,2600,2556,2602
+197,Denis Kadric,2600,2475,2612
+198,Liviu-Dieter Nisipeanu,2600,2629,2625
+199,Miguel Illescas Cordoba,2600,2612,2570
+200,Daniel Dardha,2598,2534,2568
+201,Lu Shanglei,2598,2658,2646
+202,Farrukh Amonatov,2598,2576,2573
+203,Dragan Solak,2598,0,2510
+204,Kacper Piorun,2597,2491,2601
+205,Emil Sutovsky,2597,2593,2524
+206,Shamsiddin Vokhidov,2597,2535,2559
+207,David Paravyan,2597,2598,2544
+208,Ahmed Adly,2596,2557,2610
+209,Arman Pashikian,2594,2585,2535
+210,Daniil Yuffa,2594,2509,2552
+211,Simen Agdestein,2593,2469,2482
+212,Zhou Weiqi,2593,2607,2590
+213,John M Burke,2592,0,2574
+214,Mikhailo Oleksienko,2592,2507,2551
+215,Nigel Short,2592,2534,2571
+216,Hristos Banikas,2592,2606,2601
+217,Vahap Sanal,2591,2513,2628
+218,Ivan Sokolov,2591,2615,2587
+219,Yuniesky Quesada Perez,2591,2616,2585
+220,S P Sethuraman,2591,2536,2517
+221,Rinat Jumabayev,2589,2515,2561
+222,Igor Lysyj,2589,2547,2537
+223,Dennis Wagner,2589,2456,2482
+224,Nidjat Mamedov,2589,2624,2645
+225,Miguel Santos Ruiz,2589,2486,2499
+226,Konstantin Tarlev,2589,2576,2524
+227,Evgenij Miroshnichenko,2589,2573,2539
+228,V Pranav,2588,2468,2549
+229,Szymon Gumularz,2588,2550,2432
+230,Suri Vaibhav,2588,2543,2494
+231,Arik Braun,2588,2611,2535
+232,Yasser Quesada Perez,2588,2498,2496
+233,Adhiban Baskaran,2587,2522,2576
+234,Arturs Neiksans,2587,2541,2507
+235,Dimitrios Mastrovasilis,2587,2558,2552
+236,Robert Markus,2587,2625,2623
+237,Yusnel Bacallao Alonso,2587,2490,2561
+238,Anton Smirnov,2586,2486,2647
+239,Sergey A Fedorchuk,2586,2535,2529
+240,Daniel Fridman,2586,2567,2501
+241,Aydin Suleymanli,2586,2517,2551
+242,Pawel Teclaf,2586,2506,2558
+243,Yuri Kruppa,2586,0,0
+244,Nikolas Theodorou,2586,2543,2525
+245,Boris Grachev,2585,2591,2538
+246,Abhimanyu Mishra,2585,0,2449
+247,Constantin Lupulescu,2584,2556,2551
+248,Giovanni Vescovi,2584,2609,2593
+249,Viorel Iordachescu,2584,2498,2547
+250,Rustem Dautov,2584,0,2581
+251,Surya Shekhar Ganguly,2583,2645,2549
+252,Varuzhan Akobian,2582,2634,2566
+253,Fernando Peralta,2582,2585,2569
+254,Peter Michalik,2582,2525,2585
+255,Luis Paulo Supi,2582,2520,2512
+256,Emre Can,2582,2541,2502
+257,Vladislav Kovalev,2582,2532,2539
+258,Matthieu Cornette,2582,2534,2478
+259,Pavel Ponkratov,2582,2590,2567
+260,Sergei Azarov,2582,2556,2475
+261,Peter Prohaszka,2581,2534,2626
+262,Temur Kuybokarov,2581,2458,2454
+263,Zaven Andriasian,2581,2616,2617
+264,Timur Gareyev,2581,2588,2569
+265,Bobby Cheng,2580,2513,2481
+266,Jergus Pechac,2580,2540,2533
+267,Alexander Moiseenko,2579,2562,2556
+268,Dmitry Kokarev,2579,2548,2590
+269,Denis Khismatullin,2579,2536,2539
+270,Martin Kraemer,2579,2527,2482
+271,Hovhannes Gabuzyan,2579,2486,2486
+272,Yan Liu,2579,2420,2432
+273,Vadim Zvjaginsev,2578,2496,2585
+274,Zhang Zhong,2578,2493,2535
+275,Dimitri Reinderman,2578,0,2526
+276,Aditya Mittal,2577,2386,2425
+277,Valentin Dragnev,2576,2463,2478
+278,Wojciech Moranda,2576,2570,2603
+279,Artyom Timofeev,2576,2540,2570
+280,Daniel Forcen Esteban,2575,2514,2527
+281,Zahar Efimenko,2575,2607,2545
+282,Carlos Daniel Albornoz Cabrera,2575,2615,2524
+283,Guillermo Vazquez,2575,2473,2543
+284,Michael Roiz,2575,2539,2596
+285,Wen Yang,2574,2526,2596
+286,Baadur Jobava,2574,2647,2576
+287,Ilya Smirin,2574,2540,2511
+288,Adam Kozak,2574,2546,2469
+289,Geetha Narayanan Gopal,2573,2489,2511
+290,Evgeny Alekseev,2573,2526,2551
+291,Luca Moroni Jr,2573,2504,2556
+292,Jingyao Tin,2573,2479,2485
+293,Manuel Perez Candelario,2573,2473,2474
+294,Alvar Alonso Rosell,2572,2486,2575
+295,Bai Jinshi,2572,2522,2516
+296,Zhao Jun,2571,2596,2547
+297,Zeng Chongsheng,2571,2501,2504
+298,Bardiya Daneshvar,2570,2454,2478
+299,Jure Borisek,2570,2548,2561
+300,Alejandro Ramirez,2570,2579,2683
+301,Semen Khanin,2570,2484,2458
+302,Velimir Ivic,2570,2504,2563
+303,Evgeny Postny,2570,2465,2516
+304,Arseniy Nesterov,2569,2532,2494
+305,Andrey Baryshpolets,2569,2479,2532
+306,John Nunn,2569,2536,2490
+307,Mikheil Mchedlishvili,2568,2533,2520
+308,Diptayan Ghosh,2568,2440,2545
+309,Ju Wenjun,2568,2592,2536
+310,Konstantin Sakaev,2568,2510,2632
+311,Christian Bauer,2568,2540,2725
+312,Pavel V Tregubov,2567,2509,2445
+313,Peter Acs,2567,2495,0
+314,Antonios Pavlidis,2566,2614,2576
+315,Aleksandr Shimanov,2566,2599,2611
+316,Mikhail Demidov,2566,2484,2494
+317,Platon Galperin,2566,2438,2472
+318,Nico Georgiadis,2566,2494,2442
+319,Borki Predojevic,2565,2587,2597
+320,Erik van den Doel,2565,2539,2495
+321,Yannick Gozzoli,2564,2591,2583
+322,Levan Pantsulaia,2564,2533,2579
+323,Marc Andria Maurizzi,2564,2411,2418
+324,Francesco Sonis,2564,2469,2425
+325,Vladimir Potkin,2564,2533,2474
+326,Rainer Buhmann,2563,2616,2613
+327,Harsha Bharathakoti,2563,2523,2509
+328,Vugar Asadli,2563,2528,2598
+329,Jose Carlos Ibarra Jerez,2563,2549,2637
+330,Sergey Grigoriants,2562,2500,2532
+331,Karthik Venkataraman,2562,2369,2440
+332,Grzegorz Gajewski,2561,2492,2544
+333,Li Di,2561,2470,2447
+334,Tomi Nyback,2561,2572,2526
+335,Denis Lazavik,2560,2495,2560
+336,Bartlomiej Heberla,2560,2481,2447
+337,Ivan Bocharov,2559,2562,2619
+338,Cemil Can Ali Marandi,2559,2553,2468
+339,Tuan Minh Le,2559,2501,2565
+340,Misratdin Iskandarov,2559,2477,2495
+341,Evgeny Romanov,2559,2493,2493
+342,Neuris Delgado Ramirez,2558,2618,2616
+343,Gergely Antal,2558,2460,2471
+344,Csaba Balogh,2558,2609,2646
+345,Leon Livaic,2558,2496,2546
+346,Liam Vrolijk,2558,2498,2478
+347,Zhou Jianchao,2558,2570,2487
+348,Valery Kazakouski,2558,2498,2569
+349,Aleksandra Goryachkina,2557,2488,2471
+350,Robert Kempinski,2556,2494,2608
+351,Mircea-Emilian Parligras,2556,2496,2486
+352,Tomas Sosa,2556,2480,2566
+353,Oliver Mihok,2555,2445,2445
+354,Merab Gagunashvili,2555,2492,2551
+355,Sergei Ovsejevitsch,2555,2494,2468
+356,Ori Kobo,2555,2446,2454
+357,Viktor Erdos,2555,2512,2554
+358,Mahammad Muradli,2554,2484,2537
+359,Julio Catalino Sadorra,2554,2531,2530
+360,Gregory Kaidanov,2554,0,2547
+361,Zhang Pengxiang,2554,2515,0
+362,Fidel Corrales Jimenez,2554,2516,2505
+363,Bojan Vuckovic,2554,2570,2478
+364,Mikhail Gurevich,2553,2562,2610
+365,Evgeny Agrest,2553,2567,2536
+366,Humpy Koneru,2553,2473,2448
+367,Sebastien Feller,2553,2621,2499
+368,Maxim Turov,2552,2518,2394
+369,Kateryna Lagno,2552,2483,2504
+370,Srinath Narayanan,2552,2475,2442
+371,Daniil Lintchevski,2552,2493,2559
+372,Sasa Martinovic,2552,2548,2453
+373,Klementy Sychev,2552,2484,2583
+374,Maksim Vavulin,2552,2479,2544
+375,Nikita Petrov,2551,2505,2534
+376,Bartosz Socko,2551,2539,2531
+377,Kamil Dragun,2550,2553,2551
+378,Viktor Matviishen,2550,2436,2433
+379,Zbynek Hracek,2550,2559,2534
+380,Vladimir Baklan,2550,2625,2610
+381,Sipke Ernst,2550,2514,2436
+382,Andreas Heimann,2550,2539,2501
+383,Lei Tingjie,2550,2517,2530
+384,Viktor Gazik,2550,2466,2526
+385,Vugar Rasulov,2549,2415,2517
+386,Helgi Dam Ziska,2549,2572,2558
+387,Hrvoje Stevic,2549,2545,2562
+388,Tomas Laurusas,2548,2498,2515
+389,Sergey Erenburg,2548,0,2567
+390,Tigran L Petrosian,2548,2604,2625
+391,Robert Fontaine,2547,0,0
+392,Bart Michiels,2547,2550,2565
+393,Aleksandr Lenderman,2547,2625,2591
+394,M R Babu Lalith,2547,2568,2551
+395,Mikhail Kobalia,2547,2511,2627
+396,Aleksey Sorokin,2547,2561,2476
+397,Ilia Iljiushenok,2547,2475,2498
+398,Alojzije Jankovic,2547,2501,2492
+399,Luis Engel,2547,2455,2455
+400,Imre Jr Hera,2547,2527,2598
+401,Sebastien Maze,2546,2551,2462
+402,Rudik Makarian,2546,2485,2505
+403,Koustav Chatterjee,2546,2396,2432
+404,Liu Qingnan,2545,2514,2537
+405,Iegor Krivoborodov,2545,2559,2552
+406,Jan Smeets,2545,0,2586
+407,Nikita Meshkovs,2544,2523,2544
+408,Grzegorz Nasuta,2544,2429,2464
+409,Levan Aroshidze,2544,2521,2533
+410,Luis Ernesto Quesada Perez,2544,2535,2563
+411,Alexander Graf,2543,0,0
+412,Andrey Rychagov,2543,2435,2423
+413,Sergei Tiviakov,2543,2602,2653
+414,Nitzan Steinberg,2543,2510,2486
+415,Leandro Krysa,2542,2528,2495
+416,Semyon Lomasov,2542,2560,2445
+417,Jesper Sondergaard Thybo,2542,2420,2380
+418,Kiril Georgiev,2542,2605,2525
+419,Marin Bosiocic,2541,2503,2585
+420,Tamaz Gelashvili,2541,0,2627
+421,Milos Perunovic,2540,2573,2542
+422,Krikor Sevag Mekhitarian,2540,2586,2588
+423,Lucas van Foreest,2540,2483,2519
+424,Visakh N R,2540,2458,2466
+425,Zhamsaran Tsydypov,2540,2555,2576
+426,Conrad Holt,2540,2548,2592
+427,Davorin Kuljasevic,2539,2549,2481
+428,Igor Janik,2539,2455,2484
+429,Li Min Peng,2538,2411,2436
+430,Roeland Pruijssers,2538,0,2539
+431,Pavel Smirnov,2538,2466,2522
+432,Aronyak Ghosh,2538,2422,2421
+433,Emilio Cordova,2538,2610,2607
+434,Gilberto Hernandez Guerrero,2538,2496,2521
+435,Daniel Alsina Leal,2538,2421,2395
+436,Bjorn Moller Ochsner,2537,2472,2448
+437,Sebastian Bogner,2537,2552,2495
+438,Jure Skoberne,2537,2452,2549
+439,Brandon Jacobson,2537,2451,2474
+440,Nikita Afanasiev,2537,2522,2538
+441,Vlastimil Babula,2537,2536,2474
+442,Gleb Dudin,2537,2404,2371
+443,Dmitry Obolenskikh,2536,2602,2517
+444,Nicholas Pert,2536,2600,2536
+445,Jan-Christian Schroeder,2536,2444,2556
+446,Martin Nayhebaver,2536,2430,2417
+447,Avital Boruchovsky,2536,2466,2450
+448,Lorenzo Lodici,2536,2436,2436
+449,Dr Florian Handke,2536,2514,2511
+450,Jonathan Rowson,2536,2525,2519
+451,Michal Krasenkow,2534,2444,2406
+452,Diego Flores,2534,2586,2615
+453,Titas Stremavicius,2534,2467,2418
+454,Christopher Noe,2534,2427,2542
+455,Josif Dorfman,2534,2545,2512
+456,Yuri Vovk,2534,2559,2477
+457,Adam Tukhaev,2534,2512,2519
+458,Giorgi Margvelashvili,2534,0,2549
+459,Tomasz Warakomski,2533,2461,2445
+460,Patrick Wolff,2533,2524,0
+461,Mert Yilmazyerli,2533,2433,2433
+462,Namig Guliyev,2533,2495,2520
+463,Matthias Wahls,2533,0,0
+464,Adham Fawzy,2533,2530,2550
+465,Zdenko Kozul,2532,2532,2563
+466,Vitaly Kunin,2532,2516,2417
+467,Alexandra Kosteniuk,2532,2523,2455
+468,Allan Stig Rasmussen,2531,2500,2492
+469,Robert Ruck,2531,2470,2561
+470,Ivan Rozum,2531,2512,2423
+471,Twan Burg,2531,2539,2422
+472,Predrag Nikolic,2531,2634,2550
+473,Xu Yinglun,2531,2521,2544
+474,Jaime Alexander Cuartas,2530,2500,2452
+475,Ioan-Cristian Chirila,2530,2500,2445
+476,Vitaliy Bernadskiy,2530,2533,2494
+477,Stamatis Kourkoulos-Arditis,2530,2449,2388
+478,Ivan Ivanisevic,2530,2585,2540
+479,Gabor Papp,2530,2529,2587
+480,Jorge Viterbo Ferreira,2529,2427,2429
+481,Vadim Moiseenko,2529,2394,2426
+482,Jose Fernando Cuenca Jimenez,2529,2450,2433
+483,Pranav Anand,2529,2421,2374
+484,Pierre Laurent-Paoli,2529,2479,2377
+485,Anton Shomoev,2529,2514,2451
+486,Hannes Stefansson,2529,2468,2488
+487,Daniel Howard Fernandez,2529,2380,2466
+488,Yuri Yakovich,2528,2477,2426
+489,Felipe De Cresce el Debs,2527,2535,2560
+490,Federico Perez Ponsa,2527,2593,2590
+491,Gergely Kantor,2527,2482,2526
+492,David Gavrilescu,2526,2513,2511
+493,Leonardo Tristan,2526,2529,2483
+494,Valery Sviridov,2526,2405,2456
+495,Christopher Lutz,2526,0,0
+496,Hichem Hamdouchi,2526,2495,2490
+497,Guillaume Lamard,2526,2434,2409
+498,Alexander Huzman,2526,2470,2437
+499,Andrew Z Hong,2525,0,2460
+500,Paulius Pultinevicius,2525,2551,2596
+501,Vladimir Zakhartsov,2525,2505,2518
+502,Xiongjian Peng,2525,2399,2380
+503,Jiri Stocek,2525,2538,2406
+504,Jonas Lampert,2525,0,2492
+505,Elshan Moradiabadi,2524,2552,2527
+506,Costica-Ciprian Nanu,2524,2484,2485
+507,Tigran K Harutyunian,2524,2439,2446
+508,Matej Sebenik,2523,2488,2503
+509,Elham Amar,2523,2473,2481
+510,Hugo Ten Hertog,2523,2491,2496
+511,Tan Zhongyi,2523,2523,2519
+512,Edvins Kengis,2523,2396,2512
+513,Andrew Tang,2523,2433,2600
+514,Jan H Timman,2522,2472,2501
+515,Hjorvar Steinn Gretarsson,2522,2516,2504
+516,Aleksandr Kharitonov,2522,2573,2466
+517,Sankalp Gupta,2522,2427,2457
+518,Casper Schoppen,2522,2553,2532
+519,Bence Korpa,2522,2453,2475
+520,Felix Blohberger,2522,2404,2440
+521,Ravi Haria,2522,2422,2422
+522,Raja Harshit,2522,2361,2458
+523,Andreas Kelires,2522,2438,2438
+524,Danyyil Dvirnyy,2521,2456,2526
+525,Arman Mikaelyan,2521,2456,2445
+526,Amirreza Pour Agha Bala,2521,2360,2335
+527,Mihail Nikitenko,2521,2397,2398
+528,Dmitry Bocharov,2521,2548,2469
+529,Jan Krejci,2521,2479,2416
+530,Tomas Polak,2520,2482,2458
+531,Erald Dervishi,2520,2537,2486
+532,Maxim Dlugy,2520,2554,2602
+533,Robin Swinkels,2520,0,2414
+534,Justin Wang,2520,2371,0
+535,Ibro Saric,2520,2556,2518
+536,Hipolito Asis Gargatagli,2520,2517,2557
+537,Vladimir Belous,2520,2623,2534
+538,Renato Terry,2520,2472,2575
+539,Sergei Lobanov,2520,2436,2487
+540,Bartlomiej Macieja,2520,2446,2430
+541,Leon Mons,2519,0,2492
+542,Aleksey Goganov,2519,2506,2450
+543,Ahmad Ahmadzada,2519,2414,2364
+544,Ante Saric,2519,2536,2547
+545,Marcin Dziuba,2519,2468,2478
+546,Dambasuren Batsuren,2519,2422,2448
+547,Tadeas Kriebel,2519,2428,2437
+548,Vitaliy Kiselev,2519,2395,2430
+549,Nikolozi Kacharava,2519,2405,2412
+550,Alberto David,2518,2617,2527
+551,Tomasz Markowski,2518,2468,2493
+552,Ulf Andersson,2518,2442,2467
+553,Lance Henderson de La Fuente,2517,2363,2421
+554,Andre Diamant,2517,2439,2468
+555,Arthur Guo,2517,0,0
+556,Nikola Djukic,2517,2557,2565
+557,Nicolas D Checa,2517,2416,2507
+558,Aleksander Mista,2517,2514,2481
+559,Robby Kevlishvili,2517,2568,2566
+560,Dusko Pavasovic,2517,0,2568
+561,Aleksander Delchev,2516,2474,2503
+562,Thomas Beerdsen,2516,2462,2553
+563,Luka Paichadze,2515,2454,2538
+564,Vladislav Nozdrachev,2515,2495,2481
+565,Bayarsaikhan Gundavaa,2515,2374,2392
+566,Bilel Bellahcene,2515,2524,2559
+567,Jan Bernasek,2515,2505,2446
+568,Ihor Samunenkov,2515,2429,2473
+569,Renato R Quintiliano Pinto,2515,2412,2469
+570,Christopher Repka,2514,2428,2411
+571,Romain Edouard,2514,2540,2570
+572,Pavel Anisimov,2514,2486,2486
+573,Michal Olszewski,2514,2456,2422
+574,Zurab Sturua,2514,2489,2447
+575,Dominik Horvath,2514,2407,2413
+576,Kjetil Aleksander Lie,2514,2460,2420
+577,Roberto Garcia Pantoja,2513,2492,2548
+578,Cem Kaan Gokerkan,2513,2365,2365
+579,Victor Mikhalevski,2513,2434,2493
+580,Andrey Kvon,2513,2485,2468
+581,Igor Novikov,2513,0,0
+582,Toivo Keinanen,2513,2457,2524
+583,Boris Savchenko,2513,2551,2495
+584,Renier Vazquez Igarza,2513,2570,2580
+585,Alija Muratovic,2513,2423,0
+586,Sune Berg Hansen,2512,2568,0
+587,Ediz Gurel,2512,2302,2359
+588,Ido Gorshtein,2512,2410,2415
+589,Marcin Krzyzanowski,2512,2435,2471
+590,Omar Almeida Quintana,2512,2476,2539
+591,Raymond Song,2512,2383,2383
+592,Yannick Pelletier,2512,2643,0
+593,Zoltan Medvegy,2511,2417,2535
+594,Praveen Balakrishnan,2511,2410,2410
+595,Nana Dzagnidze,2511,2439,2398
+596,Mariya Muzychuk,2511,2470,2443
+597,Samant Aditya S,2511,2339,2410
+598,Ivan Schitco,2511,2430,2430
+599,Grigor Grigorov,2510,2521,2512
+600,Santiago Avila Pavas,2510,2392,2459
+601,Dawit Schengelia,2510,2449,2427
+602,Youri Solodovnitchenko,2510,2461,2418
+603,Xiu Deshun,2510,2579,2493
+604,Justin Tan,2510,2403,2531
+605,Pavel Vorontsov,2509,2534,2480
+606,Alisher Suleymenov,2509,2461,2326
+607,Arjun Kalyan,2509,2393,2424
+608,Ioannis Nikolaidis,2509,2535,2513
+609,Andrey Sumets,2509,2491,2418
+610,Lars Oskar Hauge,2509,2432,2424
+611,Sebastian Iermito,2509,2427,2447
+612,Zhihang Xu,2509,2426,2404
+613,Michael Prusikin,2508,2458,2538
+614,Tornike Sanikidse,2508,2509,2429
+615,Igor Khenkin,2508,2518,2621
+616,Jan Subelj,2508,2430,2505
+617,Wan Yunguo,2508,2520,2522
+618,Zoran Jovanovic,2507,2558,2570
+619,Eugene Perelshteyn,2507,0,0
+620,Djurabek Khamrakulov,2507,2482,2535
+621,Roman Kezin,2507,2496,2504
+622,Tanguy Ringoir,2507,2513,2587
+623,Andres Carlos Obregon,2506,2502,2564
+624,Isik Can,2506,2374,2374
+625,Alexandr Triapishko,2506,2437,2510
+626,Julen Luis Arizmendi Martinez,2506,2502,2484
+627,Ameet K Ghasi,2506,2496,2555
+628,Stelios Halkias,2506,2511,2449
+629,Andrei Shchekachev,2505,2453,2445
+630,Amirreza Pourramezanali,2505,2404,2346
+631,Ruud Janssen,2505,0,2455
+632,Guha Mitrabha,2505,2401,2507
+633,Arnaud Hauchard,2505,2533,0
+634,Anna Muzychuk,2504,2434,2445
+635,Emanuel Berg,2504,2570,2502
+636,Radoslav Dimitrov,2504,2457,2474
+637,Marko Nenezic,2504,2487,2457
+638,Tal Baron,2504,2428,2442
+639,Ivan Yeletsky,2504,2394,2357
+640,Arsen Kukhmazov,2504,2473,2390
+641,Aryan Gholami,2504,2403,2403
+642,Artem Iljin,2504,2496,2436
+643,Arkadiusz Leniart,2503,2418,2395
+644,M Pranesh,2503,2391,2457
+645,Frode Olav Olsen Urkedal,2503,2489,2418
+646,Marcel Kanarek,2503,2400,2389
+647,Andrey Orlov,2503,2585,2521
+648,Irakli Beradze,2502,2457,2394
+649,Volodymyr Vetoshko,2502,2457,2422
+650,Pierre Bailet,2502,2469,2520
+651,Raja Rithvik R,2502,2387,2395
+652,Sergey Ionov,2502,2416,2434
+653,P Iniyan,2502,2439,2443
+654,Vlad-Cristian Jianu,2502,2510,2511
+655,Fabien Libiszewski,2502,2431,2444
+656,Nikolas Lubbe,2501,2446,2449
+657,Vignesh N R,2501,2386,2415
+658,Balaji Daggupati,2501,0,0
+659,Anthony He,2501,0,2409
+660,Harika Dronavalli,2500,2459,2417
+661,Jose Angel Guerra Mendez,2500,2483,2495
+662,Emin Ohanyan,2500,2302,2416
+663,Dusan Popovic,2500,2536,2573
+664,Marcin Tazbir,2500,2437,2501
+665,Elier Miranda Mesa,2500,2425,2426
+666,Philipp Schlosser,2500,2549,2559
+667,Xu Yi,2500,2391,2460
+668,Toms Kantans,2500,2419,2380
+669,Dai Changren,2499,2423,2415
+670,Anthony Wirig,2499,2465,2479
+671,Zhao Zong-Yuan,2499,2501,2545
+672,Martin Petrov,2499,2439,2441
+673,A Koushik Girish,2499,2410,2398
+674,Alexander Naumann,2498,2549,2528
+675,Brandon G I Clarke,2498,2385,2418
+676,Zhu Jin'er,2498,2399,2384
+677,Konstantine Shanava,2498,2379,2477
+678,Joris Brenninkmeijer,2498,0,0
+679,Alessio Valsecchi,2498,2453,2405
+680,Jordi Magem Badals,2498,0,0
+681,Murtas Kazhgaleyev,2498,2483,2505
+682,Susanto Megaranto,2498,2531,2602
+683,Giga Quparadze,2498,2559,2617
+684,Vitali Golod,2498,2396,2590
+685,Ermes Espinosa Veloz,2497,2480,2392
+686,Artur Davtyan,2497,2417,2417
+687,Aliaksei Charnushevich,2497,2497,0
+688,Sundar M Shyam,2497,2464,2475
+689,Florian Kaczur,2497,2487,2505
+690,Samir Sahidi,2497,2499,2480
+691,Tiger Hillarp Persson,2497,2538,2555
+692,Daniel Pulvett Marin,2496,2508,2416
+693,Polina Shuvalova,2496,2358,2354
+694,Sabino Brunello,2496,2648,2557
+695,Pier Luigi Basso,2496,2458,2438
+696,Ariel Erenberg,2496,2397,2416
+697,Daniel Sadzikowski,2495,2388,2403
+698,Axel Delorme,2495,2453,2478
+699,Martijn Dambacher,2495,0,0
+700,Luka Budisavljevic,2495,2439,2439
+701,David Klein,2495,0,0
+702,Yevgeniy Roshka,2495,2424,2431
+703,Brian Sebasti Escalante Ramirez,2495,2397,2391
+704,Andres Felipe Gallego Alcaraz,2495,2408,2380
+705,Aleksei Pridorozhni,2494,2521,2584
+706,Oskar Wieczorek,2494,2394,2418
+707,Boban Bogosavljevic,2494,2573,2488
+708,Luka Draskovic,2494,2408,2421
+709,Laszlo Gonda,2494,2502,0
+710,Maximilian Berchtenbreiter,2494,2466,2499
+711,Joel Benjamin,2494,0,2561
+712,Vladimir Hamitevici,2494,2414,2405
+713,Chen Lin,2494,2458,2493
+714,Mamikon Gharibyan,2494,2449,2445
+715,Andrei Murariu,2494,2511,2448
+716,Shawn Rodrigue-Lemieux,2493,2477,2456
+717,Gergely-Andras-Gyula Szabo,2493,2402,2444
+718,Manuel Apicella,2493,2509,2446
+719,Kaan Kucuksari,2493,2376,2364
+720,Lukasz Cyborowski,2493,2463,2567
+721,Rafael Vaganian,2493,2416,2439
+722,Evandro Amorim Barbosa,2493,2426,2439
+723,David Brodsky,2493,0,0
+724,Seyed Khalil Mousavi,2492,2427,2416
+725,Alexander Berelovich,2492,2503,2463
+726,Ognjen Jovanic,2492,2414,2407
+727,Valentin Baidetskyi,2492,2421,2508
+728,Yeoh Li Tian,2492,2430,2430
+729,Read Samadov,2492,2355,2355
+730,V S Rathanvel,2491,2321,2417
+731,Pawel Czarnota,2491,2486,2534
+732,Sergey Trushnikov,2491,2428,2466
+733,Kaido Kulaots,2491,2483,2482
+734,Hedinn Steingrimsson,2491,2559,2590
+735,Chanda Sandipan,2491,2602,2490
+736,Sarunas Sulskis,2490,2467,2486
+737,Jan Klimkowski,2490,2347,2331
+738,Jean-Pierre Le Roux,2490,2601,2476
+739,Eduardas Rozentalis,2490,2430,2488
+740,Henry Soto Hernandez,2490,2407,2452
+741,Evgenios Ioannidis,2490,2409,2374
+742,Mika Karttunen,2490,2396,2396
+743,Mohamed Haddouche,2490,2477,2443
+744,Miloje Ratkovic,2489,2446,2437
+745,Igor Miladinovic,2489,2546,2541
+746,Viacheslav Tilicheev,2489,2395,2415
+747,Bryce Tiglon,2489,0,0
+748,Yair Parkhov,2489,2427,2421
+749,William Hernandez Gonzalez,2489,0,2374
+750,Alejandro Moreno Trujillo,2489,2511,2471
+751,Momchil Petkov,2489,2426,2383
+752,Sayantan Das,2489,2408,2388
+753,Manuel Pena Gomez,2488,2387,2409
+754,Dmitriy Khegay,2488,2453,2472
+755,Erik Blomqvist,2488,2489,2379
+756,Kristian Stuvik Holm,2488,2437,2497
+757,Eric Lobron,2488,0,2546
+758,David C Smerdon,2488,2548,2478
+759,Sahaj Grover,2488,2492,2432
+760,Ivan Morovic Fernandez,2488,2578,2498
+761,Sarasadat Khademalsharieh,2488,2392,2391
+762,Csaba Horvath,2488,2487,2536
+763,Borya Ider,2488,2467,2512
+764,Kazybek Nogerbek,2487,2404,2515
+765,Renjie Huang,2487,2381,2380
+766,Paul Velten,2487,2574,2471
+767,Jon S Speelman,2487,2540,2534
+768,Slavko Cicak,2487,0,0
+769,Jean-Marc Degraeve,2487,2374,2453
+770,David Gorodetzky,2486,2399,2484
+771,Tamas Jr Fodor,2486,2469,2504
+772,Zoltan Ribli,2486,2545,2532
+773,Alexander Stripunsky,2486,2581,2544
+774,Renier Castellanos Rodriguez,2486,2461,2597
+775,Gamil Agamaliev,2486,0,0
+776,Lelys Stanley Martinez Duany,2486,2476,2404
+777,Isan Reynaldo Ortiz Suarez,2486,2544,2481
+778,Alexander Beliavsky,2486,2584,2478
+779,Jan Vykouk,2486,2429,2370
+780,Vojtech Plat,2486,2548,2565
+781,Rafal Antoniewski,2485,2512,2581
+782,Dmitry Frolyanov,2485,2451,2395
+783,Vasil Spasov,2485,2472,2523
+784,Wang Chen,2485,2441,2470
+785,Prraneeth Vuppala,2485,2406,2276
+786,Shay Porat,2484,2499,2553
+787,Kristof Juhasz,2484,2386,2386
+788,Carles Diaz Camallonga,2484,2469,2430
+789,Eldar Gasanov,2484,2383,2457
+790,Cristhian Cruz,2484,2512,2526
+791,Athanasios Mastrovasilis,2484,2521,2521
+792,Aleksey Grebnev,2484,2471,2413
+793,Aleksandr Shneider,2484,2499,0
+794,Mukhiddin Madaminov,2484,2415,2478
+795,Jacek Gdanski,2484,2352,2332
+796,Hagen Poetsch,2484,2536,2520
+797,Novendra Priasmoro,2483,2412,2412
+798,Mihajlo Stojanovic,2483,2474,2638
+799,Hans Tikkanen,2483,2535,2554
+800,Tuan Minh Tran,2483,2423,2444
+801,Marco Baldauf,2483,2410,2432
+802,Roi Reinaldo Castineira,2483,2420,0
+803,Yagiz Kaan Erdogmus,2483,2353,2359
+804,Lucian-Costin Miron,2483,2440,2450
+805,Abdulla Gadimbayli,2483,2443,2386
+806,Ioannis Georgiadis,2483,2494,2446
+807,Zbigniew Pakleza,2482,2455,2410
+808,Pedro Antonio Gines Esteo,2482,2421,2453
+809,Ulvi Sadikhov,2482,2458,2384
+810,Nikola Nestorovic,2482,2467,2425
+811,Meilis Annaberdiev,2482,2504,2405
+812,Artur Kogan,2482,2455,2509
+813,Novak Pezelj,2482,2481,2384
+814,Masoud Mosadeghpour,2482,2368,2354
+815,Bharath Subramaniyam,2482,2425,2416
+816,Vignir Vatnar Stefansson,2482,2428,2510
+817,Alparslan Isik,2482,2277,2259
+818,Robert Andrew Hungaski,2482,2390,2433
+819,Mladen Palac,2482,2532,2483
+820,Helgi Ass Gretarsson,2481,2377,2406
+821,Saveliy Golubov,2481,2550,2548
+822,Camilo Ernesto Gomez Garrido,2481,2520,2501
+823,Yu Shaoteng,2481,0,2502
+824,Vladimir Lazarev,2481,2408,0
+825,Gergely Aczel,2481,2490,2406
+826,Miguoel Admiraal,2481,2449,2453
+827,Rahul Srivatshav P,2481,2392,2392
+828,Samuel-Timotei Ghimpu,2481,2280,2333
+829,Laurent Guidarelli,2481,2437,2460
+830,Nikolaj Mikkelsen,2480,0,0
+831,Tomas Kraus,2480,2374,2389
+832,Andy Woodward,2480,0,2353
+833,Julian Kramer,2480,2367,2454
+834,Kevin Spraggett,2480,2440,2516
+835,Dylan Isidro Berdayes Ason,2480,2427,2467
+836,Maximilian Neef,2480,0,2494
+837,Balazs Csonka,2480,2465,2404
+838,Yu Ruiyuan,2480,2507,2486
+839,Jakub Kosakowski,2480,2485,2488
+840,Marcus R Harvey,2480,2460,2457
+841,Nazar Firman,2479,2433,2414
+842,Adlane Arab,2479,2422,2406
+843,Diego Rafael Di Berardino,2479,2420,2436
+844,S Dhopade Swapnil,2479,2470,2402
+845,Juan Carlos Gonzalez Zamora,2479,2496,2522
+846,Dejan Bojkov,2479,0,0
+847,Maciej Klekowski,2479,2418,2540
+848,Holden Hernandez Carmenate,2479,0,2545
+849,Jaroslav Prizant,2478,2515,2578
+850,William N Watson,2478,2492,2460
+851,Ruben Gideon Koellner,2478,2428,2347
+852,Mariano Ortega Amarelle,2478,2483,2392
+853,Juraj Druska,2478,2421,2415
+854,Nikolay Noritsyn,2478,2482,2444
+855,Krasimir Rusev,2478,2438,2502
+856,Matthias Dann,2477,2515,2511
+857,Ehsan Ghaem Maghami,2477,2522,2563
+858,Robert Zelcic,2477,2503,2414
+859,Dr Christian Seel,2477,2435,2478
+860,Clovis Vernay,2477,2480,2464
+861,Danny Raznikov,2476,2470,2527
+862,Jonathan Westerberg,2476,2434,2462
+863,Adrien Demuth,2476,2453,2485
+864,Mihnea Costachi,2476,2416,2456
+865,Mahel Boyer,2476,2456,2449
+866,Bojan Maksimovic,2476,2519,2513
+867,Safal Bora,2476,2389,2377
+868,Stefan Bromberger,2476,2511,0
+869,Vladimir Burmakin,2476,2405,2447
+870,Oliver Barbosa,2476,2610,2594
+871,Juan Carlos Obregon Rivero,2475,2526,2501
+872,Bela Khotenashvili,2475,2411,2358
+873,Razvan Preotu,2475,2544,2434
+874,Milos Stankovic,2475,2427,2445
+875,Andrey Drygalov,2475,2459,2462
+876,Hampus Sorensen,2475,2333,2334
+877,Benjamin Arvola Notkevich,2475,2379,2455
+878,Boris Chatalbashev,2475,2527,2425
+879,Emil Mirzoev,2475,2433,2439
+880,Momchil Nikolov,2475,2497,2391
+881,Tor Fredrik Kaasen,2475,2345,2404
+882,Jason Liang,2474,2378,2378
+883,Sergey Pavlov,2474,2377,2364
+884,Bojan Kurajica,2474,2391,2450
+885,Pablo Ismael Acosta,2474,2402,2394
+886,Nino Batsiashvili,2474,2364,2231
+887,Kirk Ghazarian,2474,0,2346
+888,Deep Sengupta,2474,2433,2355
+889,Goh Wei Ming,2473,2369,2402
+890,Jan Votava,2473,2461,0
+891,Gad Rechlis,2473,2497,2521
+892,Friso Nijboer,2473,2479,2428
+893,Michel Alejandro Diaz Perez,2473,2450,2347
+894,Oleg Korneev,2473,2473,2456
+895,Frank Holzke,2473,0,0
+896,Krzysztof Jakubowski,2473,2400,2365
+897,Andrei Sokolov,2473,2565,0
+898,Klaus Bischoff,2473,2536,2483
+899,Milosz Szpar,2473,2398,2434
+900,Zhansaya Abdumalik,2473,2466,2383
+901,G A Stany,2472,2413,2503
+902,Geir Sune Tallaksen Ostmoe,2472,2461,2385
+903,Miklos Galyas,2472,2381,2409
+904,Pawel Jaracz,2472,2441,2454
+905,Michael Bezold,2472,2574,2531
+906,Kevin Joel Cori Quispe,2472,2427,2424
+907,Samy Shoker,2472,2433,2475
+908,Martin Petr,2472,2498,2390
+909,Gerard Ayats Llobera,2471,2453,2423
+910,Eyal Grinberg,2471,2403,2403
+911,Aljoscha Feuerstack,2471,2422,2418
+912,Elisabeth Paehtz,2471,2367,2339
+913,Richard Forster,2471,0,0
+914,Timur Fakhrutdinov,2471,2427,2405
+915,Dmitry Kryakvin,2471,2378,2396
+916,Lars Schandorff,2471,2499,2517
+917,Roven Vogel,2471,2481,2518
+918,Alexander Kovchan,2471,2448,2451
+919,Rodrigo Vasquez Schroeder,2470,2582,2582
+920,Valeriy Aveskulov,2470,2509,2552
+921,Michael Feygin,2470,2530,0
+922,Vojtech Zwardon,2470,2412,2439
+923,Evgeny Zanan,2470,2397,2400
+924,Xu Jun,2470,2511,0
+925,Milos Roganovic,2470,2426,2483
+926,Henrik Danielsen,2469,2528,2473
+927,Ilan Manor,2469,2418,0
+928,Semen I Dvoirys,2469,2381,2383
+929,Ma Zhonghan,2469,2416,2474
+930,Raja Panjwani,2469,2385,2395
+931,Yusup Atabayev,2469,2528,2473
+932,Alexander Zabotin,2469,2439,2343
+933,Quentin Loiseau,2469,2354,2322
+934,Bibisara Assaubayeva,2469,2432,2478
+935,Sergio E Barrientos,2469,2421,2406
+936,Ilya Khmelniker,2469,2379,2412
+937,Ernesto J Fernandez Guillen,2469,2460,2434
+938,Alexander Shabalov,2469,2531,2460
+939,Cyril Ponizil,2469,2399,2479
+940,Adam Horvath,2469,2490,2522
+941,Akshat Chandra,2469,2409,2515
+942,Daniel Garcia Ramos,2468,2434,2341
+943,Salvador Alonso,2468,2467,2482
+944,Luis Galego,2468,2400,2513
+945,Alina Kashlinskaya,2468,2377,2398
+946,Moulthun Ly,2468,2467,2468
+947,Jose Rafael Gascon Del Nogal,2468,2393,2473
+948,Vladimir Dobrov,2468,2433,2486
+949,Dr Jan Michael Sprenger,2468,0,0
+950,Dinara Wagner,2468,2350,2350
+951,Israel Caspi,2468,2380,2419
+952,Nikolaus Stanec,2468,0,0
+953,Ilja Schneider,2468,2433,2474
+954,Marcos Camacho Collados,2468,2376,2376
+955,Jose Gabriel Cardoso Cardoso,2468,2430,2485
+956,Valery A Loginov,2468,2432,2382
+957,Roman Bar,2468,2395,2421
+958,Robert Rabiega,2468,0,2602
+959,Pierre Petitcunot,2468,2443,2436
+960,Viacheslav V Zakhartsov,2467,2421,2423
+961,Stefan Mazur,2467,2350,2340
+962,Robert Cvek,2467,2453,2475
+963,Mikhail Krylov,2467,2511,2449
+964,Simon Williams,2467,2497,2468
+965,Shahin Lorparizangeneh,2467,2376,2518
+966,Rogelio Barcenilla,2467,0,2415
+967,Shyaamnikhil P,2467,2356,2345
+968,Johannes Haug,2467,2378,2421
+969,Magesh Chandran Panchanathan,2466,0,2490
+970,Yago De Moura Santiago,2466,2469,2465
+971,Jorge Roberto Elias Reyes,2466,2414,2331
+972,Krystian Kuzmicz,2466,2374,2350
+973,Denis Makhnyov,2466,2505,2526
+974,Nderim Saraci,2466,2397,2521
+975,Jonny Hector,2466,2491,2403
+976,Patrick Zelbel,2466,2468,2474
+977,Jung Min Seo,2466,2450,2468
+978,Roman Yanchenko,2466,2485,2491
+979,Manuel Leon Hoyos,2465,2527,2540
+980,Trajko Nedev,2465,2430,2502
+981,Qi Chen b,2465,2444,2432
+982,Mario Villanueva,2465,2429,2379
+983,Baris Esen,2465,0,2564
+984,Dan Zoler,2465,2352,2411
+985,Tagir Salemgareev,2465,2446,2360
+986,Pierre Barbot,2465,2499,2431
+987,Tiberiu-Marian Georgescu,2465,2359,2377
+988,Nikita Maiorov,2464,2428,2415
+989,Istvan Sipos,2464,2408,0
+990,Sergey Volkov,2464,2516,2356
+991,Daan Brandenburg,2464,0,0
+992,Lou Yiping,2464,2454,2412
+993,Pablo Salinas Herrera,2464,2455,2556
+994,Fy Antenaina Rakotomaharo,2464,2392,2427
+995,Yahli Sokolovsky,2464,2316,2389
+996,Alejandro Alvarado Diaz,2464,2429,2444
+997,Omer Reshef,2463,2451,2332
+998,Andrey Gorovets,2463,2563,2442
+999,Deivy Vera Siguenas,2463,2405,2397
+1000,Andrei Kovalev,2463,2345,2362
+1001,Maksat Atabayev,2463,2455,2431
+1002,Sam E Collins,2463,2446,2386
+1003,Piotr Bobras,2463,0,0
+1004,Hing Ting Lai,2463,2380,2571
+1005,Augustin Droin,2463,2418,2374
+1006,Arman Hakemi,2463,2240,2221
+1007,Douglas Root,2463,0,0
+1008,Frode Elsness,2462,2331,2370
+1009,Radoslaw Gajek,2462,2414,2402
+1010,Mikhail Bryakin,2462,2468,2459
+1011,Dov Zifroni,2462,2458,2408
+1012,Bator Sambuev,2462,2465,2422
+1013,Mihajlo Radovanovic,2462,2338,2370
+1014,Joseph Girel,2462,2282,2344
+1015,George-Gabriel Grigore,2461,2453,2423
+1016,Georg Froewis,2461,2484,2504
+1017,Shardul Annasaheb Gagare,2461,2446,2483
+1018,Ramil Faizrakhmanov,2461,2418,2431
+1019,Saparmyrat Atabayev,2461,2361,2448
+1020,Zurab Javakhadze,2461,2438,2381
+1021,Sergei Yudin,2461,2484,2577
+1022,Sergei Zablotsky,2461,2377,2413
+1023,Loic Travadon,2461,2417,2406
+1024,Arystanbek Urazayev,2460,2531,2433
+1025,Jubin Jimmy,2460,2443,2272
+1026,Martin Lokander,2460,2349,2335
+1027,Milos Jirovsky,2460,2479,2475
+1028,Benjamin Haldorsen,2460,2301,2405
+1029,Aleksa Strikovic,2459,2464,2527
+1030,Vitaly Sivuk,2459,2515,2476
+1031,Stefan Kindermann,2459,2516,0
+1032,Artyom Zubritskiy,2459,2456,2435
+1033,Or Bronstein,2459,2328,2356
+1034,Felix Levin,2459,2349,2364
+1035,Jegor Lashkin,2459,2302,2368
+1036,Dennis Kaczmarczyk,2459,0,0
+1037,Marius Fromm,2458,2333,2335
+1038,Andres Merario Alarcon,2458,2323,2321
+1039,Unai Garbisu de Goni,2458,2441,2417
+1040,Mackenzie Molner,2458,2474,2434
+1041,Muthaiah AL,2458,2264,2353
+1042,Vladislav Bakhmatsky,2458,2411,2391
+1043,Josep Manuel Lopez Martinez,2458,2504,2456
+1044,Aleksej Aleksandrov,2458,2442,2400
+1045,Tim Janzelj,2458,2333,2342
+1046,Gudmundur Kjartansson,2458,2314,2369
+1047,Nikoloz Petriashvili,2458,2352,2383
+1048,Conor E Murphy,2458,2325,2325
+1049,Jakub Fus,2458,2414,2361
+1050,Daniel Semcesen,2457,2520,2472
+1051,Zhao Xue,2457,2422,2407
+1052,Aksel Bu Kvaloy,2457,2214,2314
+1053,Lennis Martinez Ramirez,2457,2454,2410
+1054,Rishi Sardana,2457,2409,2360
+1055,Attila Vertetics,2457,2415,2522
+1056,Aaditya Dhingra,2457,2221,2269
+1057,Valentina Gunina,2457,2412,2370
+1058,Thomas Roussel-Roozmon,2457,0,0
+1059,Sumiya Bilguun,2457,2460,2407
+1060,Uwe Boensch,2457,0,2557
+1061,Dimitar Mardov,2457,0,2332
+1062,Akash G,2456,2383,2367
+1063,Joan Fluvia Poyatos,2456,2433,2466
+1064,Cyril Marcelin,2456,2459,2436
+1065,Ilja Zaragatski,2456,0,2460
+1066,Zhao Yuanhe,2456,2337,2355
+1067,Henrik Teske,2456,2507,2453
+1068,Gerald Hertneck,2456,2470,2462
+1069,Asghar Golizadeh,2456,2371,2403
+1070,Adrian Mikhalchishin,2455,2467,2428
+1071,Zenon Franco Ocampos,2455,2466,0
+1072,Igor Zuyev,2455,2467,2513
+1073,Arnaldo Fernandez De La Vara,2455,0,2387
+1074,Alon Greenfeld,2455,2345,2389
+1075,Haowen Xue,2455,2214,2155
+1076,Sam A Schmakel,2455,2327,2356
+1077,Alexander Gutenev,2455,2418,2360
+1078,Georgios Goumas,2454,2370,2397
+1079,Daniel Gurevich,2454,2459,2420
+1080,Lukas Cernousek,2454,2445,2333
+1081,Juan Plazuelo Pascual,2454,2378,2394
+1082,Tsvetan Stoyanov,2454,2344,2371
+1083,Luis Lazaro Aguero Jimenez,2454,2418,2414
+1084,Dalibor Stojanovic,2454,2493,2473
+1085,Artem Chernobay,2454,2458,2474
+1086,Boris Markoja,2454,2380,2495
+1087,Leonid M Sokolin,2454,2493,2394
+1088,Raven M Sturt,2454,2465,2408
+1089,Milton Pantzar,2453,2390,2365
+1090,Josiah Stearman,2453,2286,2399
+1091,Tigran Kotanjian,2453,2461,2400
+1092,Dmitry V Sklyarov,2453,2422,2446
+1093,Peio Duboue,2453,2369,2444
+1094,Zhandos Agmanov,2453,2415,2435
+1095,Aleksandr Volodin,2453,2458,2426
+1096,Jonathan Carlstedt,2453,2319,2333
+1097,Julio Suarez Gomez,2453,2380,2405
+1098,James Morris,2453,2365,2438
+1099,David Pardo Simon,2453,2413,2453
+1100,Diogo Fernando,2453,2438,0
+1101,Filip Pancevski,2452,2435,2503
+1102,Lubomir Ftacnik,2452,2478,2556
+1103,Pia Cramling,2452,2400,2287
+1104,Mishra Swayams,2452,2445,2405
+1105,Radoslaw Psyk,2452,2296,2371
+1106,Gabor Nagy,2452,2518,2514
+1107,Pavel Simacek,2452,2388,2360
+1108,Vaishali R,2452,2373,2410
+1109,Benoit Lepelletier,2452,0,0
+1110,Tigran S Petrosyan,2452,2455,2354
+1111,Artur Gabrielian,2452,2436,2432
+1112,Daniel Hausrath,2452,2533,2550
+1113,Xianliang Xu,2452,0,0
+1114,Tong Xiao,2452,2128,2042
+1115,Oleksandr Sulypa,2451,2363,2363
+1116,Jose Gonzalez Garcia,2451,2488,2486
+1117,Mikael Agopov,2451,2354,0
+1118,Albert Bokros,2451,2430,2489
+1119,Georg Halvax,2451,2313,2468
+1120,Robert Baskin,2451,2327,2472
+1121,Shete Sammed Jaykumar,2451,2261,2296
+1122,Azamat Utegaliyev,2451,2430,2426
+1123,Alexander Markgraf,2451,0,0
+1124,Georgi Orlov,2451,0,0
+1125,Timothe Razafindratsima,2451,2340,2340
+1126,Aramis Alvarez Pedraza,2451,2422,2450
+1127,Khazar Babazada,2451,2326,2344
+1128,Pavel Govciyan,2450,2401,2394
+1129,Teja S Ravi,2450,2283,2444
+1130,Gombosuren Munkhgal,2450,2404,2519
+1131,Nick de Firmian,2450,2468,0
+1132,Roberto Carlos Gomez Ledo,2450,2444,2378
+1133,Peng Chen,2450,2363,2407
+1134,Sergey Kasparov,2450,2471,2453
+1135,Nico Chasin,2450,2323,2365
+1136,Johnatan Bakalchuk,2450,2358,2450
+1137,Spiridon Kapnisis,2450,2400,2422
+1138,Aleksandar Kovacevic,2450,2520,2461
+1139,Lukas Vlasak,2450,2349,2345
+1140,Alder Escobar Forero,2450,2410,2401
+1141,Andrea Stella,2450,2439,2450
+1142,Vasily Usmanov,2450,2378,2350
+1143,Cristhian Camilo Rios,2450,2483,2562
+1144,Pontus Carlsson,2450,2385,2461
+1145,Christophe Sochacki,2450,2464,2501
+1146,Arkadi Rotstein,2450,0,2455
+1147,Harry Grieve,2449,2313,2370
+1148,Nguyen Huynh Minh Huy,2449,2465,2470
+1149,Vladimir Epishin,2449,2377,2272
+1150,Jesus Maria De La Villa Garcia,2449,2391,0
+1151,Vladyslav Larkin,2449,2439,2422
+1152,Franz Braeuer,2449,0,2370
+1153,Michael Richter,2449,2438,2462
+1154,Tsegmed Batchuluun,2449,2442,2386
+1155,Luca Shytaj,2449,2384,2372
+1156,Mark L Hebden,2449,2436,2436
+1157,John M Emms,2448,2415,0
+1158,Matthew J Turner,2448,2500,2429
+1159,Thore Perske,2448,0,2336
+1160,Pere Garriga Cazorla,2448,2477,2383
+1161,Ziaur Rahman,2448,2471,2460
+1162,Karen Movsziszian,2448,2432,2434
+1163,Ebrahim Ahmadinia,2448,2352,2352
+1164,Isak Storme,2448,2339,2304
+1165,Johannes Carow,2448,2409,2507
+1166,Stefan Kuipers,2448,0,2471
+1167,Luis Fernando Ibarra Chami,2448,2439,2452
+1168,Vladimir Petkov,2448,2473,2432
+1169,Gunay Mammadzada,2448,2314,2408
+1170,Ogulcan Kanmazalp,2448,2359,2458
+1171,Daniel W Gormally,2447,2463,2522
+1172,George-Catalin Ardelean,2447,2502,2596
+1173,Kassa Korley,2447,2471,2351
+1174,Irina Krush,2447,2405,2367
+1175,Joshua Sheng,2447,0,2376
+1176,Xavier Vila Gazquez,2447,2435,2421
+1177,Erik Obgolts,2447,2382,2412
+1178,Alex Krstulovic,2447,2324,2311
+1179,Meri Arabidze,2447,2346,2417
+1180,Pedro Alejandro Jimenez Fraga,2447,0,2377
+1181,Olivier Renet,2447,2507,2485
+1182,Viatcheslav Ikonnikov,2447,0,0
+1183,Aaron Alonso Garcia,2446,2370,2343
+1184,Patrik Lyrberg,2446,2439,2437
+1185,Michele Godena,2446,2572,2567
+1186,Stefan Docx,2446,2364,2345
+1187,Andreas Diermair,2446,2380,2341
+1188,Roland Schmaltz,2446,2441,2503
+1189,Koen Leenhouts,2446,0,2409
+1190,Dragisa Blagojevic,2446,2439,2462
+1191,Mate Bagi,2446,2420,2377
+1192,Liafbern Riemersma,2446,0,0
+1193,Dimitris Alexakis,2446,2379,2516
+1194,Filip Haring,2446,2359,2375
+1195,Kevin Terrieux,2446,2427,2455
+1196,Nikolas Wachinger,2446,2364,2332
+1197,Marian Petrow,2446,2410,2418
+1198,Deepan Chakkravarthy J,2446,2378,2323
+1199,Yoseph Theolifus Taher,2445,2352,2352
+1200,Mihail Marin,2445,2436,2385
+1201,Burak Firat,2445,2359,2392
+1202,Ernesto Real De Azua,2445,2394,2464
+1203,Dr Andras Flumbort,2445,0,0
+1204,Jaroslaw Krassowizkij,2445,2434,2422
+1205,Alan B Merry,2445,2318,2340
+1206,Joshua Daniel Ruiz Castillo,2445,2467,2480
+1207,Yeshaayahu Tzidkiya,2445,2344,2344
+1208,Andre Ventura Sousa,2445,2406,2346
+1209,Matthew J Wadsworth,2445,2367,2347
+1210,Gil Popilski,2445,2535,2537
+1211,Roman Slobodjan,2445,0,2466
+1212,Semen Mitusov,2445,2332,2318
+1213,Robert Ris,2445,0,0
+1214,Remy Degraeve,2445,2404,2377
+1215,Gennadij Fish,2445,0,2400
+1216,Kirill Kozionov,2444,2305,2301
+1217,Spartak Grigorian,2444,2314,2441
+1218,Aayush Bhattacherjee,2444,2149,2186
+1219,Vladislav Nevednichy,2444,2349,2377
+1220,Ramil Hasangatin,2444,2319,2314
+1221,Yuliia Osmak,2444,2301,2303
+1222,Erling Mortensen,2444,0,0
+1223,Vasilios Kotronias,2444,2499,2376
+1224,Ram Soffer,2444,2392,2362
+1225,Ramazan Zhalmakhanov,2444,2390,2437
+1226,Hovik Hayrapetyan,2444,2454,2348
+1227,Dimitri Bunzmann,2444,0,0
+1228,Vladimir Gurevich,2443,0,0
+1229,Robert Aloma Vidal,2443,2470,2435
+1230,Miklos Nemeth,2443,2414,2420
+1231,Miroslav D Miljkovic,2443,2443,2532
+1232,Sergei Chekhov,2443,2470,2422
+1233,Sotirios Malikentzos,2443,2336,2330
+1234,Anatoly Vaisser,2443,2401,2498
+1235,Richard Pile,2443,2499,2376
+1236,Alexander Moskalenko,2443,2507,2404
+1237,Joshua Posthuma,2443,2415,2349
+1238,Mikel Huerga Leache,2443,2432,2473
+1239,Nico Zwirs,2442,2429,2381
+1240,Andrei Deviatkin,2442,2479,2440
+1241,Edvin Trost,2442,2307,2368
+1242,Juan Reyes,2442,2363,2372
+1243,Vadim Malakhatko,2442,2378,2329
+1244,Arthur Pijpers,2442,0,2454
+1245,Lukas Handler,2442,2365,2342
+1246,Piotr Brodowski,2442,2362,2351
+1247,Artur Jakubiec,2442,2430,2473
+1248,Eloi Relange,2442,2465,2450
+1249,Petr Haba,2442,0,2494
+1250,Arash Tahbaz,2441,2353,2380
+1251,Ruben Pereira,2441,2342,2341
+1252,Roger Meng,2441,0,0
+1253,Lela Javakhishvili,2441,2336,2327
+1254,Uurtsaikh Agibileg,2441,2298,2318
+1255,Aleksandar Colovic,2441,2395,2292
+1256,Carlos Matamoros Franco,2441,2412,2532
+1257,Ilie Martinovici,2441,2329,2286
+1258,Berge Ostenstad,2441,2423,0
+1259,Alexis Cabrera,2441,0,2461
+1260,Ranko Szuhanek,2441,2405,2403
+1261,Mihail Saltaev,2441,0,2369
+1262,Fang Yan,2440,2413,2341
+1263,Angel Espinosa Aranda,2440,2375,2478
+1264,Marius Deuer,2440,2274,2308
+1265,Roberto Carlos Sanchez Alvarez,2440,2398,2345
+1266,David Berczes,2440,2495,2492
+1267,Konstantin Mesropov,2440,2479,2331
+1268,Alexander Bagrationi,2440,2364,2366
+1269,Radoslaw Barski,2440,2331,2315
+1270,James R Adair,2440,2349,2412
+1271,Mark A Heimann,2440,0,2398
+1272,Yaroslav Remizov,2440,2389,2405
+1273,Melikset Khachiyan,2440,2471,2484
+1274,Sergei Iskusnyh,2440,2345,2492
+1275,Thibaut Vandenbussche,2439,0,0
+1276,Marsel Efroimski,2439,2342,2336
+1277,Jon Viktor Gunnarsson,2439,2401,2409
+1278,Ortik Nigmatov,2439,2398,2382
+1279,Darko Doric,2439,2479,2508
+1280,Simone De Filomeno,2439,2469,2293
+1281,Kamil Stachowiak,2439,2269,2351
+1282,Jakob Meister,2439,2390,2440
+1283,Diego Macias Pino,2439,2318,2438
+1284,Gus Huston,2439,2326,2228
+1285,Kirill Shubin,2439,2415,2428
+1286,Rainer Knaak,2438,0,0
+1287,Matvey Galchenko,2438,2408,2423
+1288,Raoul Strohhaeker,2438,0,2463
+1289,Abdimalik Abdisalimov,2438,2330,2389
+1290,Jens-Uwe Maiwald,2438,2453,2444
+1291,Alexander Seyb,2438,0,2345
+1292,Lev Psakhis,2438,2517,0
+1293,Oliver Kurmann,2438,2396,2475
+1294,Vasiliy Korchmar,2438,2378,2370
+1295,G Petar Arnaudov,2438,2403,2430
+1296,Rijad Burovic,2438,2433,2388
+1297,Antonio Gamundi Salamanca,2438,2368,0
+1298,Tobias Koelle,2438,2339,2507
+1299,Sven Tica,2438,2322,2358
+1300,Alon Mindlin,2438,2348,2441
+1301,Roland Voigt,2438,0,0
+1302,Thies Heinemann,2438,2480,0
+1303,Iulian Sofronie,2438,2420,2420
+1304,Andrei Macovei,2438,2380,2447
+1305,Novak Cabarkapa,2438,2486,2404
+1306,Xinyang Nie,2438,2347,2293
+1307,Sion Radamantys Galaviz Medina,2437,2306,2273
+1308,Alexei Fedorov,2437,2509,2494
+1309,Oscar De la Riva Aguado,2437,2549,2423
+1310,Sim Maerevoet,2437,2387,2317
+1311,Alexander Khlebovich,2437,2442,2334
+1312,A Ra Harikrishnan,2437,2301,2409
+1313,Dr Achim Illner,2437,0,2355
+1314,Marie Sebag,2437,2384,2431
+1315,Emil Hermansson,2437,2340,2465
+1316,Amilal Munkhdalai,2437,2340,2293
+1317,Michael Wiedenkeller,2436,2430,2428
+1318,Jordi Fluvia Poyatos,2436,2465,2430
+1319,Vojtech Straka,2436,2324,2324
+1320,Alberto Barp,2436,2401,2313
+1321,Jacob Aagaard,2436,2502,2509
+1322,Alfonso Llorente Zaro,2436,0,2485
+1323,Roberto Servat,2436,2426,0
+1324,Miodrag R Savic,2436,2485,2500
+1325,David Shahinyan,2436,2466,2395
+1326,Anatole Vlachos,2436,2418,2389
+1327,Tomas Krnan,2436,2476,2339
+1328,Jadranko Plenca,2435,2418,2485
+1329,Karel Malinovsky,2435,0,2363
+1330,Neelash Saha,2435,2371,2398
+1331,Vilka Sipila,2435,2416,2343
+1332,Ognjen Cvitan,2435,2534,2495
+1333,Levan Bregadze,2435,2421,2451
+1334,Artem Omelja,2435,2421,2404
+1335,Axel Heinz,2435,0,2385
+1336,Stefan Beukema,2435,0,2302
+1337,Arystan Isanzhulov,2435,2247,2430
+1338,Paulo Bersamina,2434,2351,2332
+1339,Dragos Ceres,2434,2324,2324
+1340,Or Globus,2434,2347,2340
+1341,Marani Rajendran Venkatesh,2434,2397,2450
+1342,Anna Ushenina,2434,2384,2361
+1343,Rider Diaz Murgada,2434,0,2347
+1344,Michael H Bodek,2434,2393,2399
+1345,Zhen Yu Cyrus Low,2434,2305,2247
+1346,Dinara Saduakassova,2434,2449,2383
+1347,Joseph G Gallagher,2434,2410,2479
+1348,Torbjorn Ringdal Hansen,2434,2429,2350
+1349,Hannes Rau,2433,0,0
+1350,Miran Oganian,2433,2410,2335
+1351,Eray Kilic,2433,0,2337
+1352,Peter T Roberson,2433,2396,2346
+1353,Richard Stalmach,2433,2334,2299
+1354,Marco Materia,2433,2413,2451
+1355,Emil Schmidek,2433,0,2314
+1356,Aimen Rizouk,2433,2471,2462
+1357,Tibor Tolnai,2433,2333,2440
+1358,Eytan Rozen,2433,2367,2451
+1359,Jonas Rosner,2433,2367,2415
+1360,Mark Paragua,2433,2575,2504
+1361,Bosko Tomic,2433,2479,2432
+1362,Marius Manolache,2432,2336,2364
+1363,Iljya Grigorjev,2432,2338,2323
+1364,Dirk Sebastian,2432,2462,0
+1365,Evgeny Orekhov,2432,0,0
+1366,Nikolaos Spyropoulos,2432,2296,2330
+1367,Jaap De Jager,2432,0,2365
+1368,Wang Yiye,2432,2471,2401
+1369,Karsten Volke,2432,0,2349
+1370,Danyil Mosesov,2432,2284,2295
+1371,Jean-Rene Koch,2432,0,0
+1372,Natalia Pogonina,2432,2419,2287
+1373,Johann Hjartarson,2432,2399,2419
+1374,Craig A Hanley,2431,2416,2439
+1375,Vyacheslav Klyuner,2431,2385,0
+1376,Hrair Simonian,2431,2494,2429
+1377,Serghei Vedmediuc,2431,2349,2346
+1378,Konstantin Peyrer,2431,2418,2476
+1379,Pinchas Kantarji,2431,2350,0
+1380,Thomas Henrichs,2431,2458,2486
+1381,Vaclav Finek,2430,2293,2309
+1382,Umut Ata Akbas,2430,0,2157
+1383,Normunds Miezis,2430,2426,2379
+1384,Tao Pang,2430,2333,2333
+1385,Jose Fernando Cubas,2430,2523,2542
+1386,Mohammad Nubairshah Shaikh,2430,2292,2335
+1387,Lucas Brunner,2430,0,0
+1388,Vantika Agrawal,2430,2307,2270
+1389,Eylon Nakar,2430,2438,2441
+1390,Ori Kochavi,2430,2184,2212
+1391,Carlos Suarez Garcia,2430,2453,2491
+1392,Alik Gershon,2430,2381,0
+1393,Alibek Igambergenov,2430,2268,2194
+1394,Davor Rogic,2430,2510,2368
+1395,Rao Sharan,2430,2147,2236
+1396,Ajay Karthikeyan,2429,2247,2341
+1397,Gyula Pap,2429,2563,2525
+1398,Alin-Mile Berescu,2429,2345,2374
+1399,Alexandre Dgebuadze,2429,2454,2440
+1400,Vyom Vidyarthi,2429,0,2302
+1401,Rustam Khusnutdinov,2429,2416,2499
+1402,Chen Zou,2429,2408,2337
+1403,Gabriel Flom,2429,2401,2398
+1404,Linus Johansson,2429,2427,2449
+1405,Julio Becerra Rivero,2429,0,2549
+1406,Alexey Fernandez Cardoso,2429,2457,2494
+1407,Jonasz Baum,2429,2311,2307
+1408,Jakub Seemann,2429,2357,2364
+1409,Artur Gaifullin,2428,2322,2336
+1410,Arash Daghli,2428,2279,2360
+1411,Elmar Nazarsoy,2428,0,0
+1412,Jason Wang,2428,0,2245
+1413,Andrei Maksimenko,2428,2402,2405
+1414,Valentin Buckels,2428,0,2384
+1415,Asaf Givon,2428,2382,2339
+1416,Fabian Baenziger,2428,2339,2367
+1417,Harutyun Barseghyan,2428,2462,2407
+1418,Lars Karlsson,2428,2481,2336
+1419,Alex Yermolinsky,2428,2520,2508
+1420,Nikolai Kabanov,2428,2350,2318
+1421,Benjamin Defromont,2428,2271,2271
+1422,Gary Giroyan,2428,2372,2343
+1423,Stanislaw Zylka,2427,2344,2310
+1424,Vladimir Lukovic,2427,2379,2391
+1425,Edwin van Haastert,2427,0,0
+1426,Christian Braun,2427,2337,2410
+1427,Moritz Weishaeutel,2427,2301,2321
+1428,Maksim Samusenko,2427,2388,2415
+1429,Bogdan Belyakov,2427,2421,2354
+1430,Jakob Pfreundt,2427,2310,2306
+1431,Wiktor Moskalenko,2427,2480,2442
+1432,Joseph Zeltsan,2427,2327,2341
+1433,Ioannis Kalogeris,2427,2295,2255
+1434,Todor Todorov,2427,0,0
+1435,Nikola Radovanovic,2427,2430,2364
+1436,Anthony Petkidis,2427,2350,2416
+1437,Ilija Golichenko,2427,2440,2339
+1438,Azat Sharafiev,2427,2345,2337
+1439,Branko Tadic,2426,2478,2452
+1440,Alexander R Katz,2426,2353,2384
+1441,Dmitriy Kushko,2426,2285,2230
+1442,Darwin Laylo,2426,2254,2335
+1443,Nicolas Brunner,2426,2383,2319
+1444,Piotr Piesik,2426,2391,2335
+1445,Thomas Koch,2426,0,2411
+1446,Attila Groszpeter,2426,2449,0
+1447,Sebastian Lukas Kostolansky,2425,2313,2298
+1448,Dejan Stojanovski,2425,2491,2543
+1449,Jonas Barkhagen,2425,2418,2435
+1450,Diego Valerga,2425,2440,2329
+1451,Lukasz Jarmula,2425,2339,2372
+1452,Tobias Kuegel,2425,2246,2213
+1453,Nitish Belurkar,2425,2321,2352
+1454,Leonid Milov,2425,2442,2451
+1455,Steven Geirnaert,2425,2429,2362
+1456,Daniel Quizon,2425,2359,2382
+1457,Egor Bykov,2424,2276,2311
+1458,Yan Galburd,2424,2336,2369
+1459,Salvador G Del Rio De Angelis,2424,2374,2469
+1460,Elie Milikow,2424,2319,2405
+1461,Esteban Alb Valderrama Quiceno,2424,2510,2548
+1462,Drasko Boskovic,2424,2460,2384
+1463,Yannay Ben Ari,2424,2301,2301
+1464,Andrei Belozerov,2424,2431,2373
+1465,Jaroslav Bures,2424,2335,2314
+1466,Saidakbar Saydaliev,2424,2316,2308
+1467,Daniel Fernandez,2424,2455,2396
+1468,Artsiom I Strybuk,2423,2242,2305
+1469,Pablo Almagro Llamas,2423,2385,2375
+1470,Fabian Englert,2423,2342,2354
+1471,Kamel Njili,2423,2345,2238
+1472,Viachaslau Zarubitski,2423,2320,2269
+1473,Lluis Comas Fabrego,2423,2532,2510
+1474,Irina Bulmaga,2423,2371,2342
+1475,Ervin Toth,2423,2466,2457
+1476,Giorgi Sibashvili,2423,2331,2347
+1477,Margeir Petursson,2423,2348,2321
+1478,Oleg V Ivanov,2423,2454,2356
+1479,Raj Tischbierek,2423,2367,2380
+1480,S Rohith Krishna,2423,2270,2378
+1481,Rick Lahaye,2422,0,2359
+1482,Eugenio Torre,2422,2423,2343
+1483,Santiago Gonzalez De La Torre,2422,2407,0
+1484,Folco Castaldo,2422,2389,2355
+1485,Marc Narciso i Dublan,2422,2520,2550
+1486,Guy Levin,2422,2383,2345
+1487,Igor Stohl,2422,2445,0
+1488,Carlos P Boissonet,2422,2468,2391
+1489,Antoni Kozak,2422,2363,2470
+1490,Nikola Sedlak,2422,2634,2534
+1491,Lars Degerman,2422,2414,0
+1492,Alexis Tahay,2421,2347,2349
+1493,Ivan Galic,2421,2361,2318
+1494,Richard G Pert,2421,2447,2441
+1495,Nikita Matinian,2421,2319,2407
+1496,Alejandro Franco Alonso,2421,2476,2447
+1497,Ivan Zaja,2421,2397,2377
+1498,Thibault Fantinel,2421,2354,2313
+1499,Petro Golubka,2421,2379,2437
+1500,Michael Oratovsky,2421,2496,2391
+1501,Gaioz Nigalidze,2421,2459,2400
+1502,Valery Atlas,2421,2419,2425
+1503,Jean-Luc Chabanon,2421,2334,2389
+1504,Fabio Bellini,2421,2446,2474
+1505,David Pires Tavares Martins,2421,2314,2320
+1506,Dmitry Lavrik,2421,2365,2364
+1507,Tadej Sakelsek,2421,2349,2399
+1508,Filip Boe Olsen,2421,2340,2322
+1509,Vladimir Georgiev,2421,2535,2374
+1510,Dorian Rogozenko,2421,2435,2409
+1511,Willy Hendriks,2420,0,0
+1512,Jakob Leon Pajeken,2420,2368,2475
+1513,Ilyass Msellek,2420,2365,2337
+1514,Anuj Shrivatri,2420,2307,2298
+1515,Thomas Fiebig,2420,0,2420
+1516,Ruben Domingo Nunez,2420,2289,2404
+1517,Teodor Anton,2420,2365,2425
+1518,Zaur Tekeyev,2420,2375,2417
+1519,Miragha Aghayev,2420,2433,2344
+1520,Aman Hambleton,2420,2447,2511
+1521,Emilis Pileckis,2420,2442,2434
+1522,Sergey Vokarev,2420,2315,2319
+1523,Abel Fabian Lopez Gonzalez,2420,2291,2291
+1524,Nikola Mitkov,2420,2463,2448
+1525,Teodora Injac,2420,2294,2287
+1526,Sidhant Mohapatra,2420,2269,2222
+1527,Alexei Bezgodov,2420,2388,2383
+1528,John Paul Gomez,2419,2459,2451
+1529,Konstantin Sek,2419,2386,2424
+1530,Oliver Dimakiling,2419,2397,2425
+1531,Georg Mohr,2419,2337,2448
+1532,Mikhail Zaslavsky,2419,2362,2422
+1533,Edin Pezerovic,2419,0,0
+1534,Georgios Souleidis,2419,2420,2401
+1535,Igor Glek,2419,2394,2363
+1536,Christof Sielecki,2419,2436,2441
+1537,Robert Stein,2419,2275,2366
+1538,Jozsef Horvath,2419,2420,0
+1539,Ivajlo Enchev,2419,2431,2429
+1540,Lukasz Licznerski,2419,2449,2430
+1541,Domen Tisaj,2419,2306,2340
+1542,Himal Gusain,2419,2198,2261
+1543,Valeriy Grinev,2418,2346,2366
+1544,Rafael Fridman,2418,2437,2482
+1545,Jens Kotainy,2418,0,0
+1546,Manuel Bijaoui,2418,2436,2407
+1547,Sugar Gan-Erdene,2418,2309,2320
+1548,Carlos Javier Bernabeu Lopez,2418,2337,2351
+1549,Dimitri Tyomkin,2418,0,2447
+1550,Hari Madhavan N B,2418,2250,2337
+1551,Carlos Antonio Hevia Alejano,2418,2477,2495
+1552,David Arenas,2418,2409,2355
+1553,Fernando Fernandez,2418,2425,2396
+1554,Jan Emmanuel Garcia,2418,2349,2388
+1555,Mark Haast,2418,2388,2311
+1556,Gennadi Ginsburg,2417,2496,2391
+1557,Jakub Pulpan,2417,2515,2452
+1558,Pavel Shkapenko,2417,2410,2386
+1559,Pablo Garcia Cardenas,2417,2403,2475
+1560,Henry Robert Steel,2417,2399,2424
+1561,Sina Movahed,2417,2206,2173
+1562,Suat Atalik,2417,2511,2380
+1563,Matas Narmontas,2417,2447,2368
+1564,Nimrod Veinberg,2417,2348,2284
+1565,Rajat Makkar,2417,2326,2258
+1566,Davit Maghalashvili,2417,2530,2415
+1567,Adrian Gschnitzer,2417,2338,2338
+1568,Oleg Rychkov,2417,2402,2446
+1569,Azer Mirzoev,2417,2510,2525
+1570,Angelos Sandalakis,2417,2456,2363
+1571,Milos Milosevic,2417,2364,1960
+1572,Elina Danielian,2416,2340,2352
+1573,Steve Berger,2416,2445,2366
+1574,Artem Gilevych,2416,2465,2397
+1575,Christoph Menezes,2416,2369,2369
+1576,Oliver Lehner,2416,2380,2399
+1577,Sergiy Zavgorodniy,2416,2396,2402
+1578,Simon Alejandro Languidey,2416,2400,2338
+1579,Jan Breukelman,2416,0,2327
+1580,Savva Vetokhin,2416,2318,2350
+1581,Iulian Baltag,2416,2320,2322
+1582,Oleg Badmatsyrenov,2416,2411,2398
+1583,Andreas Tzermiadianos,2416,2381,0
+1584,Jan Malek,2416,2218,2287
+1585,Kirill Stupak,2416,2449,2486
+1586,Ezra Kirk,2416,2396,2252
+1587,Mher Hovhanisian,2416,2463,2422
+1588,Javier Moreno Ruiz,2416,2342,2346
+1589,Wynn Zaw Htun,2416,2411,2401
+1590,Brodie McClymont,2415,2449,2314
+1591,Chu Wei Chao,2415,2331,2331
+1592,Jonathan Dourerassou,2415,2485,2499
+1593,Licael Roderick Ticona Rocabado,2415,2182,2180
+1594,Yanbin Wang,2415,2373,2373
+1595,Shixu B Wang,2415,2384,2384
+1596,Robert Torma,2415,2420,0
+1597,Viani Antonio Dcunha,2415,2277,2391
+1598,Dennis Breder,2415,0,2502
+1599,Elizbar Ubilava,2415,2401,0
+1600,Sadig Mammadov,2415,2224,2171
+1601,Pablo Glavina,2415,2339,2351
+1602,Lech Sopur,2415,2303,2319
+1603,Peter Lizak,2415,2341,2420
+1604,Blazimir Kovacevic,2415,2455,2386
+1605,Siegfried Baumegger,2415,2331,2404
+1606,Cristian Vitier Vazquez,2414,0,2376
+1607,Eduard Andreev,2414,2342,2285
+1608,Floryan Eugene,2414,2290,2369
+1609,Jonah B Willow,2414,2295,2295
+1610,Martin Zumsande,2414,2405,2368
+1611,Abtin Atakhan,2414,2225,2008
+1612,Florian Mesaros,2414,2304,2374
+1613,Aldiyar Ansat,2414,2370,2425
+1614,Inigo Lopez Mulet,2414,2317,2302
+1615,Joel Cholo B Banawa,2414,2378,0
+1616,Artem Lutsko,2414,2342,2342
+1617,Abdelrahman Hesham,2414,2415,2478
+1618,Olexiy Bilych,2414,2450,2341
+1619,Emilio Moreno Tejera,2414,2386,2400
+1620,Piotr Murdzia,2414,2360,2455
+1621,Llambi Pasko,2413,2377,2352
+1622,Ralf Akesson,2413,2382,2341
+1623,Raphael Lagunow,2413,2317,2403
+1624,Gregor Podkriznik,2413,2289,2395
+1625,Martin Neubauer,2413,2392,2320
+1626,Anar Allahverdiyev,2413,2401,2364
+1627,Quang Long Le,2413,2413,2447
+1628,Bence Pribelszky,2413,2274,2294
+1629,Vladimir Sveshnikov,2413,2388,2302
+1630,Ivan Marinkovic,2413,2452,2338
+1631,Vitezslav Rasik,2413,2412,2380
+1632,Hugo Lopez Silva,2413,2427,2380
+1633,Harshavardhan G B,2413,2336,2323
+1634,Dr Stefan Wehmeier,2413,0,2314
+1635,Thanh Tu Tran,2413,2363,0
+1636,Andrey Ostrovskiy,2413,0,2407
+1637,Yichen Han,2413,2398,2268
+1638,Eddy Tian,2413,0,2313
+1639,Vadim Petrovskiy,2413,2385,2434
+1640,Michael Hoffmann,2413,2462,2395
+1641,Mahdi Gholami Orimi,2413,2296,2366
+1642,Mert Erdogdu,2413,2351,2378
+1643,Arghyadip Das,2413,2304,2308
+1644,Vladimir Pajkovic,2412,2376,2372
+1645,Hasan Huseyin Celik,2412,2223,2223
+1646,Jesus Garrido Dominguez,2412,2403,2385
+1647,Axel Smith,2412,2450,2444
+1648,Li Shilong,2412,2531,2549
+1649,Artem Pingin,2412,2296,2319
+1650,Kosma Pacan-Milej,2412,2240,2305
+1651,Liu Guanchu,2412,2458,2437
+1652,Aleksandr Domalchuk-Jonasson,2412,2309,2261
+1653,Andreas Schenk,2412,0,2556
+1654,Gerlef Meins,2412,2398,2319
+1655,Vladimir Grebionkin,2412,2426,2366
+1656,Jurica Srbis,2412,2420,2495
+1657,Andrea Favaloro,2412,2278,2275
+1658,Ayan Akhmetov,2411,2322,2405
+1659,Neil McDonald,2411,2406,2374
+1660,Paolo Ladron De Guevara Pinto,2411,2318,2398
+1661,Hongchi Peng,2411,2312,2312
+1662,Alexander Krastev,2411,2460,2462
+1663,Piotr Dobrowolski,2411,2340,2305
+1664,Marian Jurcik,2411,2414,2392
+1665,Vishnu Prasanna Vasanthan,2411,2464,2468
+1666,Evgeny E Vorobiov,2411,2440,2480
+1667,Luis Marcos Medarde Santiago,2411,2270,2272
+1668,Leya Garifullina,2411,2339,2236
+1669,Joachim Birger Nilsen,2411,2316,2338
+1670,Petar Genov,2411,2445,2448
+1671,Krishnater Kushager,2411,2316,2306
+1672,Francisco Montoliu Cervero,2411,2330,2330
+1673,Florian Hujbert,2411,2457,2418
+1674,Carlos Garcia Palermo,2410,2388,2421
+1675,Huang Qian,2410,2414,2326
+1676,Nikolaos Kalesis,2410,2468,2317
+1677,Dhulipalla Bala Chandra Prasad,2410,2422,2360
+1678,Arnar Gunnarsson,2410,2357,2289
+1679,Georg Kilgus,2410,2370,2297
+1680,Lukas Winterberg,2410,2349,2358
+1681,Adrian Martinez Fernandez,2410,2268,2268
+1682,Lexy Ortega,2410,2463,2440
+1683,Chenxi Zhao,2410,2308,2308
+1684,Prasanna Raghuram Rao,2410,2400,2383
+1685,Mykola Bortnyk,2410,2515,2592
+1686,Simon Lamaze,2410,2370,2335
+1687,Darcy Lima,2410,2444,2326
+1688,Pablo Fernandez Borrego,2410,2384,2341
+1689,Maksim Novik,2410,2382,2284
+1690,Alisa Galliamova,2410,2355,2390
+1691,Aleksandr Potarov,2410,2325,2325
+1692,Lev Yankelevich,2410,2401,2385
+1693,Aditya Bagus Arfan,2410,2218,2193
+1694,Sebastian Felipe Sanchez,2410,2383,2343
+1695,Antoaneta Stefanova,2410,2378,2398
+1696,Alexei Iljushin,2410,2382,2340
+1697,Jeffrey van Vliet,2409,0,0
+1698,Aaron Grabinsky,2409,2335,2448
+1699,Benedict Krause,2409,2404,2477
+1700,Roman Grib,2409,2356,2323
+1701,Anish Vivekananthan,2409,0,0
+1702,Ashot Parvanyan,2409,2339,2339
+1703,Gennady Matjushin,2409,2408,2455
+1704,Mark Kvetny,2409,2362,2331
+1705,Yankai Li,2409,2392,2351
+1706,Sasa Rezan,2409,2406,2405
+1707,Paul Motwani,2409,0,0
+1708,Javier Benito Campos Moreno,2409,2412,2391
+1709,Collin Colbow,2409,2270,2321
+1710,Joaquin Fiorito,2409,2184,2365
+1711,Nils Richter,2409,2295,2381
+1712,Rokas Klabis,2409,2264,2252
+1713,Teo Tomulic,2409,2254,2285
+1714,Richard Biolek Jr,2409,2358,2377
+1715,Leif Erlend Johannessen,2409,2491,2518
+1716,Martin Jogstad,2409,2254,2254
+1717,Nisim Iliaguev,2409,2325,2241
+1718,Alexandros Papasimakopoulos,2409,2280,2358
+1719,Tamas Vanczak,2408,2303,2269
+1720,Chiel Van Oosterom,2408,0,0
+1721,Kevin Paveto,2408,2390,2446
+1722,Jan Willem de Jong,2408,0,0
+1723,Branko Damljanovic,2408,2493,2382
+1724,Lukasz Nowak,2408,2287,0
+1725,Zaur Mammadov,2408,2438,2442
+1726,Jeroen Bosch,2408,0,2324
+1727,Valerio Carnicelli,2408,2379,2326
+1728,Robert F Jamilov,2408,2396,0
+1729,Mikhail Pogromsky,2408,2345,2352
+1730,Alberto Suarez Real,2408,2353,2449
+1731,Vladimir Karavaev,2408,2340,2330
+1732,Sergey Savitskiy,2408,2357,2331
+1733,Alexander Hoffmann,2408,0,0
+1734,Igor Vypkhanyuk,2408,2311,2346
+1735,Milan Zajic,2407,2458,2467
+1736,Imed Abdelnabbi,2407,2318,2366
+1737,Joaquin Miguel Antoli Royo,2407,2340,2443
+1738,Tycho Dijkhuis,2407,0,0
+1739,Eline Roebers,2407,2320,0
+1740,Essam El-Gindy,2407,2426,2488
+1741,Julian Martin,2407,2310,2301
+1742,L M S T De Silva,2407,2398,2395
+1743,Juan Borges Mateos,2407,2471,2478
+1744,L R Srihari,2407,2329,2334
+1745,Ganzorig Amartuvshin,2407,2265,2324
+1746,Gildas Goldsztejn,2407,2375,0
+1747,Aleksandar Danilovic,2406,2322,2356
+1748,Murad Ibrahimli,2406,2391,2318
+1749,Vadim Chichkine,2406,2333,2245
+1750,Jean Netzer,2406,2402,0
+1751,Richard Turcan,2406,2265,2284
+1752,Jussi Tella,2406,0,0
+1753,Maksim Tsaruk,2406,2352,2391
+1754,Ferenc Berebora,2406,0,0
+1755,Michael Jr Concio,2406,2365,2300
+1756,Sean Nagle,2406,0,0
+1757,Artem Smirnov,2406,2318,2318
+1758,Nicolas Tripoteau,2406,2374,0
+1759,Dennis de Vreugt,2406,2397,2445
+1760,John Daniel Bryant,2406,2455,2455
+1761,Olaf Wegener,2406,0,0
+1762,Meelis Kanep,2406,2356,2299
+1763,Victor L Ivanov,2406,2374,2335
+1764,Alexander Ivanov,2406,0,2497
+1765,Emmanuel Jimenez Garcia,2406,2307,2436
+1766,Jonas Hacker,2406,2357,2361
+1767,Tomas Likavsky,2406,2389,0
+1768,Nicola Altini,2406,2449,2325
+1769,Craig Hilby,2406,2420,2403
+1770,Victor Garcia Molla,2405,0,0
+1771,Julijan Plenca,2405,2363,2444
+1772,Valeriy Neverov,2405,2408,2331
+1773,Rainer Polzin,2405,2422,2382
+1774,Leonid Voloshin,2405,2428,2366
+1775,Sergio Trigo Urquijo,2405,2305,2335
+1776,Alexander Kaspi,2405,2307,2312
+1777,Magnus Arndt,2405,2283,2380
+1778,Giorgi Bagaturov,2405,2345,2402
+1779,Juan Antonio Corral Blanco,2405,2341,0
+1780,Alexander I Petrushin,2405,2334,2387
+1781,Marcin Szelag,2405,2355,2309
+1782,Krishna C R G,2405,2341,2380
+1783,Julian Van Overdam,2404,0,2332
+1784,Omar Garcia Blanco,2404,2290,2334
+1785,Roman Shikalov,2404,2398,2385
+1786,Till Wilhelm,2404,0,2245
+1787,Stepan Hrbek,2404,2211,2136
+1788,Andrey Tsvetkov,2404,2306,2314
+1789,Jesus Baron Rodriguez,2404,0,0
+1790,Lazaro Lorenzo De La Riva,2404,2332,2294
+1791,Yuxin Song,2404,2211,2211
+1792,Marcos Llaneza Vega,2404,2422,2402
+1793,Carlos Sandoval Mercado,2404,2263,2257
+1794,Andrew N Greet,2404,2434,2431
+1795,Jiri Rydl,2404,2365,2318
+1796,Dennes Abel,2404,2457,2459
+1797,Anton Isajevsky,2404,2408,2510
+1798,Pouria Darini,2403,2573,2482
+1799,Daniel Garcia Roman,2403,0,0
+1800,Lars Thiede,2403,2377,2352
+1801,Audi Ameya,2403,2234,2237
+1802,Lawrence Trent,2403,2428,2453
+1803,Martin Martinez Romero,2403,2385,2386
+1804,Bozidar Ivekovic,2403,2356,2390
+1805,Bozidar Ivanovic,2403,2397,0
+1806,Joerg Wegerle,2403,2413,2487
+1807,Igor Bjelobrk,2403,2374,2319
+1808,Nurgyul Salimova,2403,2313,2343
+1809,Leonid Sawlin,2403,2340,2412
+1810,Nikolaj Ninov,2403,2402,2401
+1811,Robert Shlyakhtenko,2403,0,2332
+1812,Max Gedajlovic,2403,2217,2217
+1813,Jari Reuker,2403,2332,2332
+1814,Thilo Ehmann,2402,2358,2386
+1815,Panda Sambit,2402,2262,2238
+1816,Ke Mu,2402,0,2314
+1817,Lucas Liascovich,2402,2372,2471
+1818,Iwo Godzwon,2402,2284,2318
+1819,Milos Pavlovic,2402,2465,2437
+1820,Olga Girya,2402,2327,2263
+1821,Rafal Lubczynski,2402,2298,2268
+1822,Stanislav Cifka,2402,0,2384
+1823,Dragoljub Jacimovic,2402,2355,2297
+1824,Ana Matnadze,2402,2355,2437
+1825,Marcel Martinez,2402,0,0
+1826,Julius Muckle,2402,2345,2301
+1827,Jan Rubes,2402,2360,2444
+1828,Alexey Polschikov,2402,2320,2320
+1829,Ding Yixin,2402,2349,2322
+1830,Taron Shagbazyan,2402,2426,2489
+1831,Shreyas Royal,2402,2331,2331
+1832,Ivo Maris,2402,0,0
+1833,Vassily Orlov,2402,2406,2388
+1834,Peter Enders,2402,0,2367
+1835,Hoang Thanh Trang,2402,2343,2364
+1836,Orkun Efe Alumert,2402,2278,2278
+1837,Gennady Kozlov,2401,2322,2356
+1838,Piotr Nguyen,2401,2275,2330
+1839,Blazo Kalezic,2401,2457,2484
+1840,Slobodan Munizaba,2401,2327,2398
+1841,Thomas Dionisi,2401,0,2384
+1842,Moksh Amit Doshi,2401,2330,2306
+1843,Monika Socko,2401,2309,2296
+1844,Huseyin Can Agdelen,2401,0,0
+1845,Azarya Jodi Setyaki,2401,2334,2329
+1846,Jean-Noel Riff,2401,2481,2479
+1847,Tapani Sammalvuo,2401,2432,2505
+1848,Khamparia Akshat,2401,2347,2274
+1849,Arnd Lauber,2401,2421,2351
+1850,Orkhan Abdulov,2401,2301,2301
+1851,Yevhenii Yelisieiev,2401,2320,2403
+1852,Jaime Sunye Neto,2401,2403,2350
+1853,Mihai-Lucian Grunberg,2401,2313,2363
+1854,Wojciech Wandzik,2401,2337,0
+1855,Matias Perez Gormaz,2401,2384,2362
+1856,Liran Zhou,2401,0,0
+1857,Jurij Zezulkin,2401,2445,2305
+1858,Aleksandar Tomic,2401,2361,2426
+1859,Gal Drnovsek,2401,2347,2293
+1860,Nenad Fercec,2401,2421,2444
+1861,Antonio Pazos Porta,2400,2277,2327
+1862,Stefan Tadic,2400,2368,2281
+1863,Benny Aizenberg,2400,2318,2265
+1864,Misa Pap,2400,2405,2408
+1865,Sergey Galdunts,2400,0,2430
+1866,Ilmars Starostits,2400,2340,2340
+1867,Norbert Bodo,2400,2417,2440
+1868,Mikhail V. Zaitsev,2400,2339,2316
+1869,Callum Kilpatrick,2400,2321,2351
+1870,Sebbar Ali,2400,2356,2294
+1871,Dawid Czerw,2400,2278,2144
+1872,Darius Zagorskis,2400,2342,2395
+1873,Bjorn Ahlander,2400,2429,0
+1874,Andrei-Nestor Cioara,2400,2321,2307
+1875,Ibragim S Khamrakulov,2400,2393,2485
+1876,Danilo Milanovic,2400,2431,2460
+1877,Quentin Burri,2400,0,0
+1878,Claudio Javier Minzer,2400,2392,2416
+1879,William Olsson,2400,2193,2197
+1880,Jinan Jomon,2400,1894,2267
+1881,Janko Radovic,2400,2325,2318
+1882,Alejandro Yanes Canizares,2400,2268,2310
+1883,Martin Cerveny,2400,2377,2317
+1884,Manuel Dario Ochoa de la Rosa,2399,2302,2271
+1885,Denes Boros,2399,2566,2481
+1886,Ilias Van der Lende,2399,2304,2297
+1887,Adelard Bai,2399,2299,2304
+1888,Andres Rodriguez Vila,2399,2448,2374
+1889,Yingrui Lin,2399,2300,2311
+1890,Philippe Brochet,2399,0,0
+1891,Michael Song,2399,2425,2305
+1892,Eric Thorn,2399,2241,2251
+1893,Georgios Mitsis,2399,2265,2265
+1894,Bernardo Cesar Maestre,2399,2283,2271
+1895,Alex Garrido Outon,2398,2290,2287
+1896,Gabor Kovacs,2398,2414,2405
+1897,Guido Caprio,2398,2510,2438
+1898,Filip Cukrowski,2398,2316,2213
+1899,Timofey Smirnov,2398,2326,2279
+1900,George Stoleriu,2398,2343,2308
+1901,Mohammad Fahad Rahman,2398,2366,2339
+1902,Eduard-Andrei Valeanu,2398,2325,2320
+1903,Leonardo Valdes Romero,2398,2391,2425
+1904,Ilija Balinow,2398,2454,2442
+1905,Facundo Vazquez,2398,2217,2257
+1906,Emmanuel Bricard,2398,2418,2407
+1907,Tarvo Seeman,2398,2261,2320
+1908,Patrice Babault,2398,2399,2382
+1909,Faruk Tairi,2398,0,0
+1910,Jose Garcia Padron,2397,2289,2257
+1911,Milovan Ratkovic,2397,2384,2361
+1912,Alexander Gasthofer,2397,0,2508
+1913,Kushagra Mohan,2397,2255,2413
+1914,Mark van der Werf,2397,0,2398
+1915,Svatopluk Svoboda,2397,2326,2387
+1916,Shen Yang,2397,2369,2331
+1917,Richard Wessman,2397,0,0
+1918,Alexey Smirnov,2397,2300,2293
+1919,Jakov Loxine,2397,0,0
+1920,Jorge Samuel Bobadilla Viera,2397,2259,2164
+1921,Egor Bogdanov,2397,2358,2281
+1922,Stellan Brynell,2397,2343,2483
+1923,Shubh Jayesh Laddha,2397,2087,2081
+1924,Banerjee Bitan,2397,0,2437
+1925,Khuyagtsogt Itgelt,2397,2199,2227
+1926,Denis Shmeliov,2397,0,0
+1927,Jean-Francois Jolly,2397,2364,2312
+1928,Jianjun Xie,2397,0,0
+1929,Jose Lisandro Munoz Santana,2396,0,2468
+1930,Gabriele Lumachi,2396,2305,2299
+1931,Maximillian Lu,2396,2331,2331
+1932,Konstantin Chernyshov,2396,2488,0
+1933,Georgy Rapoport,2396,2302,2302
+1934,Endre Csiki,2396,2212,2212
+1935,Gyula Izsak,2396,2402,2487
+1936,Mikhail Popov,2396,2255,2244
+1937,Dragan Kosic,2396,2469,2482
+1938,Efstratios Grivas,2396,2318,2312
+1939,Zhaoqi Liu,2396,2337,2232
+1940,Marek Oliwa,2396,2326,2305
+1941,Alexander Finkel,2395,2308,2356
+1942,Garg Aradhya,2395,2186,2263
+1943,Marcelo Tempone,2395,2379,2443
+1944,Michael Fedorovsky,2395,2307,2291
+1945,Tongsen Wang,2395,0,0
+1946,Oliwia Kiolbasa,2395,2314,2260
+1947,Karsten Rasmussen,2395,2432,2376
+1948,Alex Vidal Zamora,2395,2279,0
+1949,Sandro Pozo Vera,2395,2485,2491
+1950,Azat Nurmamedov,2395,2282,2389
+1951,Niklas Schmider,2395,2311,2383
+1952,Georg Braun,2395,2340,2340
+1953,Davit Benidze,2395,2453,2398
+1954,Ivan Sarenac,2395,2400,2277
+1955,Jonas Roseneck,2395,0,2314
+1956,Johan Eriksson,2395,2369,0
+1957,Bogdan Bilovil,2395,2273,2349
+1958,Glenn C Flear,2395,2369,2308
+1959,Alejandro Perez Garcia,2395,2250,2255
+1960,Charles Monroy,2394,2332,2315
+1961,Egor Pakhomov,2394,2444,2387
+1962,Aslan Aitbayev,2394,2447,2351
+1963,Noah Fecker,2394,2287,2285
+1964,Jackie Andersen,2394,0,2365
+1965,Kamil Plichta,2394,2332,2410
+1966,Kostya Kavutskiy,2394,2409,2323
+1967,Ekaterina Atalik,2394,2362,2258
+1968,Marcell Borhy,2394,2326,2372
+1969,Zhaozhi Li,2394,0,2312
+1970,Jose Guilherme B Lima Santos,2394,2340,2335
+1971,Tomas Civin,2394,2353,2336
+1972,Marco Lehmann,2394,0,2303
+1973,Mladen Muse,2394,0,2399
+1974,Sebastien Joie,2394,2390,2397
+1975,Peter Schmidt,2394,2429,2435
+1976,Alessandro Manzone,2394,2380,2255
+1977,Bragi Thorfinnsson,2394,2424,2333
+1978,Yannick Kambrath,2394,2294,2294
+1979,Herminio Herraiz Hidalgo,2394,2445,0
+1980,Marcin Sieciechowicz,2394,2318,2272
+1981,Jelmer Jens,2394,0,0
+1982,Marc Morgunov,2394,2355,2344
+1983,Rogelio Antonio Jr,2393,2335,2411
+1984,Alexander Mikhalevski,2393,2417,0
+1985,Davide Arcuti,2393,2253,2253
+1986,Jan Miesbauer,2393,0,0
+1987,David Shapiro,2393,2277,2308
+1988,Nahuel Diaz Hollemaert,2393,2494,2468
+1989,Dusan D Jovanovic,2393,2398,0
+1990,Everaldo Matsuura,2393,2409,2354
+1991,Damian Wcislo,2393,2292,2316
+1992,Yi Lin,2393,2322,2295
+1993,Mircea-Sergiu Lupu,2393,2364,0
+1994,Fernando Valenzuela Gomez,2393,2424,2308
+1995,Souhardo Basak,2393,2300,2300
+1996,Felix Jose Ynojosa Aponte,2393,2404,2436
+1997,Kivanc Haznedaroglu,2393,2441,2370
+1998,Karina Ambartsumova,2393,2308,2240
+1999,Thorsten Michael Haub,2393,2444,2355
+2000,Farid Firman Syah,2392,2393,2343
+2001,Matjaz Mikac,2392,2414,0
+2002,Aref Vasli,2392,2274,2274
+2003,Leandro Perdomo,2392,2445,2460
+2004,Edoardo Di Benedetto,2392,2296,2296
+2005,Marcin Molenda,2392,2257,2286
+2006,Ivan Gonzalez Menendez,2392,2440,2393
+2007,Julian Villca,2392,2262,2218
+2008,Sergio Duran Vega,2392,2358,2258
+2009,Nikolaj Borge,2392,0,2459
+2010,Guillaume Vallin,2392,2364,0
+2011,Vugar Manafov,2392,2380,2387
+2012,Mark Timmermans,2392,2355,2460
+2013,Ziji Zhang,2392,2339,2339
+2014,Georgios Kanakaris,2392,2296,2291
+2015,Jan Smolen,2392,2452,2413
+2016,Florian Poetz,2392,2367,2374
+2017,Panesar Vedant,2391,2247,2347
+2018,Marcos Lianes Garcia,2391,2312,2348
+2019,Piotr Sabuk,2391,2287,2276
+2020,Igor Berezovsky,2391,2374,2309
+2021,Garv Gaur,2391,1908,2191
+2022,Dr Christian Mann,2391,0,0
+2023,Richard J D Palliser,2391,2425,0
+2024,Mario Muskardin,2391,2247,2368
+2025,Frans Andre Cuijpers,2391,0,0
+2026,Peter Schreiner,2391,2457,2435
+2027,Eckhard Schmittdiel,2391,2410,0
+2028,Gia Huy Banh,2391,1998,1983
+2029,Matija Ostovic,2391,2356,2368
+2030,Maksym Dubnevych,2391,2196,2197
+2031,Jiri Jirka,2391,2447,2367
+2032,Christian Jepson,2391,2405,2368
+2033,Gellert Karacsonyi,2391,2326,2320
+2034,Adrian-Marian Petrisor,2391,2385,2347
+2035,Jagadeesh Siddharth,2391,2314,2338
+2036,Olav Sepp,2391,2356,2340
+2037,Zeyu Xiang,2391,2376,2335
+2038,Kirill Klukin,2390,2343,2344
+2039,Irakli Akhvlediani,2390,2298,2237
+2040,Vinh Bui,2390,0,0
+2041,Rune Djurhuus,2390,2335,0
+2042,John T H van der Wiel,2390,0,2388
+2043,Alexander Cherniaev,2390,2255,2596
+2044,Roberto Cifuentes Parada,2390,2456,2500
+2045,Sebastian Mauritsson,2390,0,2322
+2046,James P Jackson,2390,2308,2308
+2047,Marko Tratar,2390,2404,2336
+2048,Yuri S Balashov,2390,2293,2266
+2049,Jasel Lopez,2390,2367,2384
+2050,David Brinovec,2390,2291,2306
+2051,Julian Geske,2390,0,2345
+2052,Senthil Maran K,2390,2160,2068
+2053,Hugo Tirard,2390,2349,0
+2054,Bartlomiej Niedbala,2390,2302,2305
+2055,Boris Kantsler,2390,2330,2396
+2056,Kirill Kotlyar,2390,2310,2397
+2057,Harshana Thilakarathne,2389,2298,2298
+2058,Wang Pin,2389,0,0
+2059,Florian Schwabeneder,2389,2336,2373
+2060,Yoav Milikow,2389,2314,2409
+2061,Oleg Yaksin,2389,2289,2289
+2062,Stephane Bressac,2389,2319,2317
+2063,Jose Francisco R P Neves Veiga,2389,2257,2317
+2064,Alexander Sushchev,2389,2375,0
+2065,Mai Narva,2389,2314,2292
+2066,Thibaut Maenhout,2389,2392,2394
+2067,Roland Loetscher,2389,2343,2361
+2068,Lilit Mkrtchian,2389,2305,2293
+2069,Erdem Khubukshanov,2389,2453,2394
+2070,Arseny Kargin,2389,2356,2367
+2071,Alexandre Bacrot,2389,2320,2309
+2072,Tania Sachdev,2389,2297,2319
+2073,Minghui Xu,2389,2340,2311
+2074,Mads Hansen,2388,2380,2378
+2075,Quoc Hy Nguyen,2388,2191,2155
+2076,S Ajay Krishna,2388,2228,2245
+2077,Armin Juhasz,2388,2321,2304
+2078,Andrey Grekh,2388,2316,2333
+2079,Rick Frischmann,2388,2373,2365
+2080,Robert Zysk,2388,0,0
+2081,Martin Percivaldi,2388,2342,2300
+2082,Daniel Cawdery,2388,2346,2328
+2083,Arian Gonzalez Perez,2388,2337,2381
+2084,Milan Pacher,2388,2374,2359
+2085,Sophie Milliet,2388,2335,2298
+2086,Alberto Martin Fuentes,2388,2304,2331
+2087,Alexandru-Vasile David,2388,2413,2354
+2088,Slavisa Brenjo,2388,2363,2421
+2089,Fabrizio Bellia,2388,2443,2431
+2090,Luis Ignacio Rubio Mejia,2388,2291,2293
+2091,Amir Bagheri,2388,2439,2403
+2092,Franc Ashiku,2388,2297,2306
+2093,Rein Verstraeten,2388,0,0
+2094,Aarav Dengla,2388,2218,2307
+2095,Alice Lee,2388,2350,2330
+2096,Pavel Novak,2388,0,0
+2097,Noe Tutisani,2388,2334,2330
+2098,Dean Ippolito,2388,0,0
+2099,Adar Tarhan,2388,2350,2193
+2100,Yehuda Gruenfeld,2388,2391,2382
+2101,Konstantin Kazakov,2388,2311,2376
+2102,Junta Ikeda,2388,2344,2401
+2103,John Fedorowicz,2387,0,2382
+2104,Vaclav Svoboda,2387,0,0
+2105,Glen De Schampheleire,2387,2375,0
+2106,Jesus Martin Duque,2387,2323,2323
+2107,Zigurds Lanka,2387,2338,2319
+2108,Nicolas Abarca Gonzalez,2387,2302,2494
+2109,Friedrich Karl Volkmann,2387,2427,2385
+2110,Dejan Marjanovic,2387,2398,2438
+2111,Panagiotis Koutoukidis,2387,2287,2287
+2112,Sven Joachim,2387,0,2355
+2113,Fernando Bertona,2387,0,2413
+2114,Jakub Roubalik,2387,2292,2304
+2115,Alexey Grachev,2386,2421,2417
+2116,Ryszard Eggink,2386,2283,2283
+2117,Johannes Florstedt,2386,2345,2262
+2118,Diasmany Otero Acosta,2386,0,2277
+2119,Marat Dzhumaev,2386,2395,2345
+2120,Aleksandra Maltsevskaya,2386,2391,2302
+2121,Hogni Egilstoft Nielsen,2386,2484,2407
+2122,Enrique Tejedor Fuente,2386,2401,2496
+2123,David Martinez Lopez,2386,2299,2358
+2124,Oleg Boguslawski,2386,0,2379
+2125,Ekin Baris Ozenir,2386,2243,2243
+2126,Gert Schnider,2386,2381,2298
+2127,Nikolay Milchev,2386,2387,2449
+2128,Dragan Barlov,2386,2453,2366
+2129,Diego Suarez Pousa,2386,0,2373
+2130,S Nitin,2386,2276,2372
+2131,Miroslav Vlasenko,2386,2300,2323
+2132,Constantin Ionescu,2386,2332,2347
+2133,Joar Olund,2386,2318,2330
+2134,Boris Margolin,2386,2341,2292
+2135,Enamul Hossain,2386,2466,2387
+2136,Gergo Havasi,2386,2288,2302
+2137,Martin Haubro,2386,2385,2333
+2138,Fabien Guilleux,2386,2333,2370
+2139,Luis Daniel Rodriguez Hernandez,2385,2398,2392
+2140,Anvar Turdyev,2385,2313,2370
+2141,Manish Anto Cristiano F,2385,2164,2158
+2142,Anthony Atanasov,2385,2239,2355
+2143,Lars Ootes,2385,0,2331
+2144,Sanket Chakravarty,2385,2227,2269
+2145,David Martinez Martin,2385,2386,2285
+2146,Leonid Yudasin,2385,2499,2521
+2147,Yesuntumur Tugstumur,2385,2255,2255
+2148,Joan Trepat Herranz,2385,2319,2297
+2149,Serkan Soysal,2385,2396,2441
+2150,Jasper Broekmeulen,2385,0,2280
+2151,Barry Brink,2385,0,2278
+2152,Mario Schachinger,2385,2433,2299
+2153,Evaggelos Patrelakis,2385,2388,2336
+2154,Thomas E Rendle,2385,2402,2428
+2155,Igor Sorkin,2385,0,2401
+2156,Murtez Ondozi,2385,2392,2346
+2157,Maurice Peek,2385,0,2343
+2158,Ismayil Shahaliyev,2385,2325,2273
+2159,Jens Ove Fries-Nielsen,2384,2419,0
+2160,Miodrag Perunovic,2384,2274,2373
+2161,Tobias Jugelt,2384,2428,2374
+2162,Vladimir Damjanovic,2384,2390,2374
+2163,Peter Sardy,2384,2227,2304
+2164,Mukhammadali Abdurakhmonov,2384,2236,2245
+2165,Igor Bitensky,2384,2251,2291
+2166,Yuri Korsunsky,2384,0,0
+2167,Chinna Reddy C H Mehar,2384,2334,2318
+2168,Ilamparthi A R,2384,2295,2348
+2169,Jochem Snuverink,2384,2298,2359
+2170,Humberto Pecorelli Garcia,2384,2399,2422
+2171,Almas Rakhmatullaev,2384,2251,2185
+2172,David Kanovsky,2384,0,2390
+2173,Jens Albert Ramsdal,2383,2253,2298
+2174,Amadeus Eisenbeiser,2383,0,2346
+2175,Stefan Mijovic,2383,2323,2292
+2176,Pavel S Dvalishvili,2383,2303,2318
+2177,Karolis Juksta,2383,2313,2313
+2178,Mohamed Ezat,2383,2401,2372
+2179,Lucas Di Nicolantonio,2383,2362,2365
+2180,Aleksandar Jovic,2383,2401,2387
+2181,Almira Skripchenko,2383,2302,2287
+2182,Viktor Skliarov,2383,2306,2342
+2183,Lovro Novosel,2383,2125,2333
+2184,Jozsef Palkovi,2383,0,0
+2185,Carlo D'Amore,2383,2456,2478
+2186,Oskar Von Bahr,2383,2363,2401
+2187,Samo Stajner,2383,2332,2262
+2188,Georg Seul,2383,2400,2205
+2189,Juraj Lipka,2383,2369,0
+2190,Diego Adla,2383,2422,2377
+2191,Victor Stephan,2383,2313,2320
+2192,Mohamad Ervan,2383,2375,2299
+2193,Artavazd R Hayrapetyan,2383,2328,2399
+2194,Maximiliano Perez,2383,2364,2334
+2195,Kornel Szalai,2383,0,2414
+2196,Bach Ngo,2382,0,2218
+2197,Dimitrios Ladopoulos,2382,2257,2262
+2198,Gillan Bwalya,2382,2311,2368
+2199,Csaba Csiszar,2382,2295,2387
+2200,Deniz Ozen,2382,2297,2303
+2201,Hans Moehn,2382,2385,2437
+2202,Arpan Das,2382,1997,2265
+2203,David Lana Rodriguez,2382,2336,2374
+2204,Nodar Lortkipanidze,2382,2430,2363
+2205,Lin Weiguo,2382,0,0
+2206,Emile Bassini,2382,2211,2211
+2207,Evgeny Gleizerov,2382,2371,2341
+2208,Svyatoslav Bazakutsa,2382,2217,2268
+2209,Felix Meissner,2382,2378,2350
+2210,Nikolaos Galopoulos,2382,2351,2368
+2211,Dirk Rosenthal,2382,0,2206
+2212,Sergio Slipak,2382,2375,2307
+2213,Throstur Thorhallsson,2382,2471,2320
+2214,Frank Erwich,2382,0,0
+2215,Evan Park,2382,0,2394
+2216,Stefan Walter,2382,2390,0
+2217,Hilmir Freyr Heimisson,2382,2192,2273
+2218,Richard Bethke,2382,0,2369
+2219,Jan Pedersen,2382,0,2365
+2220,Alan-Safar Ramoutar,2381,2331,2271
+2221,Ufuk Sezen Arat,2381,0,2289
+2222,Tom Decuigniere,2381,2219,2278
+2223,Daniel Moldovan,2381,2444,0
+2224,Vladimir Nevostrujev,2381,2376,2418
+2225,Dr Erik Zude,2381,2328,2356
+2226,Malte Colpe,2381,2310,2289
+2227,Oleg Budnikov,2381,2376,2389
+2228,Sandeep Sethuraman,2381,0,2271
+2229,Darko Anic,2381,0,2368
+2230,Soham Kamotra,2381,2135,2209
+2231,Zoltan Hajnal,2381,2366,2346
+2232,Ulviyya Fataliyeva,2381,2227,2268
+2233,Jose Rafael Sequera Paolini,2381,2374,2376
+2234,Frank Kroeze,2381,0,2287
+2235,Gabriel Quispe Arteaga,2381,2331,2274
+2236,Jonathan D Tisdall,2381,0,0
+2237,Jesse Kraai,2380,0,0
+2238,Maxim Lugovskoy,2380,2381,2387
+2239,Francois Godart,2380,2401,2312
+2240,Dr Volkmar Dinstuhl,2380,0,2353
+2241,Vid Dobrovoljc,2380,2301,2328
+2242,Hanan Mordechai,2380,2210,2304
+2243,Qingyu Yuan,2380,2367,2359
+2244,Sabrina Vega Gutierrez,2380,2275,2209
+2245,Philip Lindgren,2380,2247,2290
+2246,Jesus M Iruzubieta Villaluenga,2380,0,2428
+2247,Artem Uskov,2380,2377,2335
+2248,Giuseppe Leiva,2380,2340,2341
+2249,Jack Zhu,2380,0,2356
+2250,Thal Abergel,2380,2414,2346
+2251,Roland Salvador,2380,2471,0
+2252,Evgeny Degtiarev,2380,2335,2284
+2253,Oswaldo Zambrana,2380,2464,2392
+2254,Chris G Ward,2379,2406,0
+2255,Olga Badelka,2379,2246,2375
+2256,Thorbjorn Bromann,2379,2373,0
+2257,Kim Pilgaard,2379,2285,0
+2258,Jose Luis Fernandez Garcia,2379,0,0
+2259,Alexander Baburin,2379,2387,2485
+2260,Attila Gergacz,2379,2316,2292
+2261,Nadav Zemach,2379,2233,2173
+2262,Daniele Genocchio,2379,2418,2384
+2263,Dritan Mehmeti,2379,0,0
+2264,Peter Horvath,2379,2312,0
+2265,Jaroslav Polasek,2378,2328,0
+2266,Vadim Razin,2378,2289,2340
+2267,Pijus Stremavicius,2378,2183,2265
+2268,Bryan G Smith,2378,2394,2357
+2269,Dieter Morawietz,2378,2370,2294
+2270,Stefan Schneider,2378,2396,2272
+2271,Brewington Hardaway,2378,2159,2159
+2272,Ivan Leventic,2378,2498,2368
+2273,Martin Blahynka,2378,2269,2236
+2274,Stavroula Tsolakidou,2378,2349,2345
+2275,Jun Hyeok Lee,2378,2288,2288
+2276,Stefan Pogosyan,2378,2421,2374
+2277,Paul Hoffmann,2378,0,2315
+2278,Kim Steven Yap,2378,2329,2405
+2279,David Housieaux,2378,2372,0
+2280,Ilya Sidorenko,2378,2339,2263
+2281,Emil Risteski,2378,2326,2251
+2282,Horacio Saldano Dayer,2378,2361,2401
+2283,M S Thejkumar,2378,2260,2312
+2284,Pavol Pcola,2378,0,0
+2285,Illya Mutschnik,2377,0,0
+2286,Semen Elistratov,2377,2288,2256
+2287,Jorge H Gomez Baillo,2377,2369,2241
+2288,Salome Melia,2377,2266,2266
+2289,Tom Wedberg,2377,2424,0
+2290,Artiom Samsonkin,2377,2452,2508
+2291,Tanmay Chopra,2377,2229,2212
+2292,Jan Sorensen,2377,2369,0
+2293,Yu Tian Poh,2377,2259,2172
+2294,Vlado Jakovljevic,2377,2343,2238
+2295,Lukas Dotzer,2377,2165,2018
+2296,Benedikt Dauner,2377,2228,2205
+2297,Matthieu Bissieres,2377,2412,2421
+2298,Jacek Dubiel,2377,0,2330
+2299,Jens E Ingebretsen,2377,2275,2206
+2300,Zsolt Horvath,2377,2355,0
+2301,Himanshu Sharma,2377,2312,2307
+2302,Oleg Romanishin,2377,2415,2387
+2303,Andreas Rupprecht,2377,0,0
+2304,Sergey Kalinichev,2377,2374,2368
+2305,Sergio Garza Marco,2376,2298,2337
+2306,Khaled Abdel Razik,2376,2426,2440
+2307,Joost Michielsen,2376,0,0
+2308,Reinhard Lendwai,2376,0,0
+2309,Roberto Molina,2376,2421,2389
+2310,Justin Chen,2376,2233,2289
+2311,Victor Kurochkin,2376,2254,2285
+2312,German Spata,2376,0,2260
+2313,Martin Jablonicky,2376,2334,2180
+2314,Jonas Prado Lobo,2376,2238,2330
+2315,Peter Scheeren,2376,0,0
+2316,Giuseppe Lettieri,2376,2488,0
+2317,Konstantin Popov,2376,2308,2340
+2318,Balazs Bakos,2376,0,0
+2319,Adrian Suarez Uriel,2376,2281,2303
+2320,Vladimir Bilic,2376,2393,2293
+2321,Sai Krishna G V,2376,2382,2415
+2322,Alexander Kaliksteyn,2375,2421,2460
+2323,Theo Hommeles,2375,0,0
+2324,David Faerber,2375,2271,2254
+2325,Sayed Arash Akbarinia,2375,2370,2343
+2326,Nino Di Giannantonio,2375,0,0
+2327,Spyridon Skembris,2375,0,0
+2328,Amir Zaibi,2375,2316,2268
+2329,Vladimir Jacko,2375,2305,2297
+2330,Zoran Arsovic,2375,2377,2308
+2331,Jose Camacho Collados,2375,2334,2212
+2332,Michael Bon,2375,2337,0
+2333,Erdenepurev Boldoo,2375,2245,2299
+2334,Robert Piliposyan,2375,2265,2435
+2335,Jan Suran,2375,2321,2439
+2336,Davaademberel Nomin-Erdene,2375,2259,2299
+2337,Savitha Shri B,2375,2236,2172
+2338,Andrey Gritsenko,2375,2330,2307
+2339,Volodymyr Iakymov,2375,2407,2441
+2340,Niels Ondersteijn,2375,2401,2436
+2341,Gabriel Gaehwiler,2375,2381,2448
+2342,Arman Ash Hayrapetyan,2375,2375,2325
+2343,Witalis Sapis,2375,2340,2346
+2344,Aldo Haik,2375,0,2365
+2345,Juan Armando Rohl Montes,2375,2369,2360
+2346,Sergio Guerrero Olmos,2374,2296,2266
+2347,Alexei Gavrilov,2374,2016,2337
+2348,Colomban Vitoux,2374,2376,2388
+2349,Veselin Pantev,2374,2365,2402
+2350,Jan Willem Van de Griendt,2374,0,2339
+2351,Philipp Wenninger,2374,2344,2288
+2352,Franco Villegas,2374,2225,2269
+2353,Jacek Stopa,2374,2511,2406
+2354,Arthur Ssegwanyi,2374,2343,2260
+2355,Batkhuyag Munguntuul,2374,2342,2348
+2356,Zvonimir Ivekovic,2374,2281,2294
+2357,Francois Vareille,2374,2401,2368
+2358,Gabor Balazs,2374,0,0
+2359,Khumoyun Begmuratov,2374,2270,2276
+2360,Arthur Kruckenhauser,2374,2277,2247
+2361,Basheer Al Qudaimi,2374,2390,2299
+2362,Gevorg Harutjunyan,2374,2504,2474
+2363,Mladen Rajkovic,2374,2311,2278
+2364,Xiangyi Liu,2374,2277,2323
+2365,Vojtech Rojicek,2374,2420,0
+2366,Pauline Guichard,2374,2281,2281
+2367,Vitali Koziak,2373,2305,2228
+2368,Sebastian Mihajlov,2373,2328,2478
+2369,Andrei-Theodor Dolana,2373,2314,2259
+2370,Milan Franic,2373,0,2337
+2371,Denny Juswanto,2373,2329,2284
+2372,Vuk Djordjevic,2373,2376,2425
+2373,Sander Van Eijk,2373,0,0
+2374,David Larino Nieto,2373,2501,2472
+2375,Ryo Chen,2373,0,2169
+2376,Alexandru-Ovidiu Stanciu,2373,2330,2268
+2377,Keith C Arkell,2373,2325,2327
+2378,Christian Weiss,2373,2402,2359
+2379,Jakov Loifenfeld,2373,0,0
+2380,Juan David Becerra,2373,2281,2293
+2381,Radu-Cristian Toma,2373,2296,2329
+2382,Bora Yarar,2373,0,2273
+2383,Edward Song,2373,0,2262
+2384,Andrew Ivanov,2373,2277,2331
+2385,Richard Biolek,2373,2405,2473
+2386,Timothee Heinz,2373,2354,2371
+2387,Adam Popovics,2373,2343,0
+2388,Alik Vydeslaver,2373,2399,2321
+2389,Vladimir Danilov,2372,2345,2278
+2390,Marcelo Panelo,2372,2266,2291
+2391,Shachar Gindi,2372,2282,2288
+2392,Vitaly Shinkevich,2372,2326,2321
+2393,Divya Deshmukh,2372,2216,2210
+2394,Alexander Zajogin,2372,0,0
+2395,Theo Gungl,2372,2252,2252
+2396,Haoyu Li,2372,2325,0
+2397,Arsen Davtyan,2372,0,2338
+2398,Matthias Mueller,2372,0,2293
+2399,Peter Lombaers,2372,2261,2251
+2400,Zeljko Bogut,2372,2374,2308
+2401,Vincent Riff,2372,2413,2358
+2402,Luis Javier Bernal Moro,2372,2346,2355
+2403,Dino Ballecer,2372,2267,2273
+2404,Markus Klauser,2372,0,0
+2405,Seyed Kian Poormosavi,2372,2194,2284
+2406,Srijit Paul,2372,2282,2282
+2407,Cristian Andres Hernandez,2372,2366,2365
+2408,Xiao Yiyi,2372,2240,2226
+2409,Guo Qi,2372,2451,2338
+2410,Dmitry Gurevich,2371,2427,2506
+2411,Yinn Long Wong,2371,2264,2281
+2412,Mathias Womacka,2371,2421,2376
+2413,Adrian-Simion Secheres,2371,2281,2303
+2414,Justus D Williams,2371,2357,2288
+2415,Thomas Willemze,2371,0,2434
+2416,Jose Vicente Pallardo Lozoya,2371,2391,2290
+2417,Petr Velicka,2371,2331,2348
+2418,Irine Kharisma Sukandar,2371,2351,2315
+2419,Nigel R Davies,2371,2393,0
+2420,Ondrej Svanda,2371,2241,2241
+2421,Anjas Novita,2371,2287,2304
+2422,Kirill Chukavin,2371,2371,2325
+2423,Nikoloz Managadze,2371,2488,2291
+2424,Joseph Levine,2371,0,2351
+2425,Dharma Tjiam,2371,0,0
+2426,Lucian-Catalin Carmaciu,2371,2392,2292
+2427,Vilmos Hando,2371,2346,2364
+2428,Gediminas Sarakauskas,2371,2348,2345
+2429,Igor Kowalski,2371,2302,2364
+2430,Jelle Sarrau,2371,2392,2437
+2431,Niaz Murshed,2371,2496,2442
+2432,Enes Tanriverdi,2371,0,0
+2433,Jhoel Garcia,2371,2269,2246
+2434,Julian Antonio Rojas Alarcon,2371,2337,2340
+2435,Gregory Pitl,2370,0,0
+2436,Momcilo Dragovic,2370,2256,2281
+2437,Jacques Elbilia,2370,0,0
+2438,Petr Neuman,2370,2462,2353
+2439,David Astasio Lopez,2370,2333,2360
+2440,Kevin Wang,2370,2370,0
+2441,Sinisa Saric,2370,2368,2435
+2442,Emmanuel Reinhart,2370,2364,0
+2443,Gabriel James Koop Bick,2370,0,2466
+2444,Robert Rieger,2370,2259,2250
+2445,Le Thao Nguyen Pham,2370,2337,2286
+2446,Gilbert Elroy Tarigan,2370,2284,2284
+2447,Bela Jakab,2370,2250,2253
+2448,Dmitri Semenov,2370,2287,2270
+2449,Cristian Salas Arros,2370,0,0
+2450,Volodymyr Sakun,2370,2356,2318
+2451,Dr Daniel Schlecht,2370,0,2257
+2452,Ruben Harutyunyan,2370,2224,2316
+2453,Cekro Ekrem,2369,2338,2428
+2454,Kaifan Xie,2369,2021,2023
+2455,Daniel Mieles Palau,2369,2359,2344
+2456,Jorge Leon Oquendo,2369,0,2276
+2457,Neelotpal Das,2369,2291,2317
+2458,Andrej Sukovic,2369,2326,2371
+2459,Didier Collas,2369,2345,0
+2460,Tamas Meszaros,2369,2321,2397
+2461,Kareim Wageih,2369,2269,2310
+2462,Viktor Varadi,2369,2376,2344
+2463,German Bazeev,2369,2415,2466
+2464,Akira Nakada,2369,2204,2204
+2465,Deysi Cori,2369,2279,2306
+2466,Max Hess,2369,2352,2330
+2467,Valentin Kuklin,2369,0,2279
+2468,Epaminondas Kourousis,2369,2381,2252
+2469,Parab Ritviz,2369,2203,2296
+2470,Batsukh Anand,2369,2103,2114
+2471,Paulo F Jatoba de Oliveira Reis,2369,2418,2359
+2472,Daniel Taboas Rodriguez,2368,2316,2365
+2473,Rudy van Wessel,2368,0,2286
+2474,Daniel Sanz Wawer,2368,2199,2167
+2475,Ilja Sirosh,2368,2288,2288
+2476,Raahil Mullick,2368,2245,2226
+2477,Dmitry Pushkarev,2368,2361,2343
+2478,Francesco De Gleria,2368,0,2319
+2479,Vasile Sanduleac,2368,2308,2345
+2480,Dejan Antic,2368,2465,2458
+2481,Dagur Arngrimsson,2368,2387,2285
+2482,Vladimir Bochnicka,2368,2104,2094
+2483,Michiel Bosman,2368,0,2274
+2484,Marco Riehle,2368,0,2462
+2485,Melis Mamatov,2368,2326,2209
+2486,Dmitry Zilberstein,2368,0,0
+2487,Aleksandr A Ostrovskiy,2368,2376,2354
+2488,Richard Mladek,2368,2325,2332
+2489,Muhammad Khusenkhojaev,2368,2278,2283
+2490,Khanim Balajayeva,2368,2246,2207
+2491,Semetey Tologontegin,2368,2396,2258
+2492,Bjorn Thorfinnsson,2368,2418,2385
+2493,Jens Kristiansen,2368,2434,2368
+2494,Sami Khader,2368,2329,2295
+2495,Roland Berzinsh,2368,2314,2278
+2496,Akmal Fayzullaev,2368,2293,2301
+2497,Balazs Pasztor,2368,2388,2194
+2498,Alexander Raykhman,2368,2393,2397
+2499,Luis Rojas Keim,2368,2362,2300
+2500,Eduard Hagara,2367,2421,2361
